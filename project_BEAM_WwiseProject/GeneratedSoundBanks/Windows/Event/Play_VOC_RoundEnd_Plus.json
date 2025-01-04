@@ -1,0 +1,74 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2272162713",
+    "Type": "Event",
+    "GUID": "{7A49D5F4-F008-49E9-B34F-6606C0C1FECB}",
+    "Language": "SFX",
+    "Hash": "{2D585804-4DD6-AF4F-1C15-2A2FA429718E}",
+    "ObjectPath": "Play_VOC_RoundEnd_Plus",
+    "ShortName": "Play_VOC_RoundEnd_Plus",
+    "Path": "Event/Play_VOC_RoundEnd_Plus.bnk",
+    "Media": [
+     {
+      "Id": "218752765",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "VOICES\\VOC_RoundEnd_01.wav",
+      "Path": "Media/218752765.wem",
+      "CachePath": "6B/{6BA56480-7D1D-1890-78E3-5D9F7C39B218}.wem"
+     },
+     {
+      "Id": "721719712",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "VOICES\\VOC_RoundEnd_02.wav",
+      "Path": "Media/721719712.wem",
+      "CachePath": "7F/{7F1BACD6-96C0-07BE-D9EB-67E91F6805C7}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2272162713",
+      "Name": "Play_VOC_RoundEnd_Plus",
+      "ObjectPath": "\\Events\\Default Work Unit\\VOICES\\Play_VOC_RoundEnd_Plus",
+      "GUID": "{7A49D5F4-F008-49E9-B34F-6606C0C1FECB}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.7322676",
+      "DurationMax": "2.0596826",
+      "MediaRefs": [
+       {
+        "Id": "218752765"
+       },
+       {
+        "Id": "721719712"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "3190188375",
+      "Name": "Volume_Voices",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_Voices",
+      "GUID": "{A30D2C1D-8F38-44BA-AD63-DA7281186AF3}"
+     },
+     {
+      "Id": "3747206233",
+      "Name": "Volume_Main",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_Main",
+      "GUID": "{C6FA2EAF-61ED-4606-84B1-A474FF19B59B}"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{17EF3089-8D40-5FDC-DA28-DF5C7AE21DE1}"
+ }
+}

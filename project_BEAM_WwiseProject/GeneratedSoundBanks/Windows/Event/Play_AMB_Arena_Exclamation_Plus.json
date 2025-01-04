@@ -1,0 +1,110 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3017384511",
+    "Type": "Event",
+    "GUID": "{7F99C6F7-F51C-4692-BACB-017045E9CA29}",
+    "Language": "SFX",
+    "Hash": "{CD5DD26E-2960-C62A-D3A4-508D76987B24}",
+    "ObjectPath": "Play_AMB_Arena_Exclamation_Plus",
+    "ShortName": "Play_AMB_Arena_Exclamation_Plus",
+    "Path": "Event/Play_AMB_Arena_Exclamation_Plus.bnk",
+    "Media": [
+     {
+      "Id": "85378029",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB\\AMB_Arena_Exclamation_03.wav",
+      "Path": "Media/85378029.wem",
+      "CachePath": "5D/{5D02134E-2ACD-581C-3072-813190B03F6E}.wem"
+     },
+     {
+      "Id": "192288233",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB\\AMB_Arena_Exclamation_01.wav",
+      "Path": "Media/192288233.wem",
+      "CachePath": "05/{05C94259-726B-A6ED-6880-BEF273D09947}.wem"
+     },
+     {
+      "Id": "631258153",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB\\AMB_Arena_Exclamation_04.wav",
+      "Path": "Media/631258153.wem",
+      "CachePath": "41/{41B70451-0B4E-8F5D-4CD0-B63B25204FA9}.wem"
+     },
+     {
+      "Id": "772929161",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB\\AMB_Arena_Exclamation_02.wav",
+      "Path": "Media/772929161.wem",
+      "CachePath": "59/{5952D8FF-F077-CE3A-68F2-B02B89267E6E}.wem"
+     },
+     {
+      "Id": "1007173913",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB\\AMB_Arena_Exclamation_05.wav",
+      "Path": "Media/1007173913.wem",
+      "CachePath": "AE/{AE29C652-CACE-4E10-14D5-ACBD9B5D402E}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3017384511",
+      "Name": "Play_AMB_Arena_Exclamation_Plus",
+      "ObjectPath": "\\Events\\Default Work Unit\\AMB\\Play_AMB_Arena_Exclamation_Plus",
+      "GUID": "{7F99C6F7-F51C-4692-BACB-017045E9CA29}",
+      "DurationType": "OneShot",
+      "DurationMin": "6.3333335",
+      "DurationMax": "11.3",
+      "MediaRefs": [
+       {
+        "Id": "85378029"
+       },
+       {
+        "Id": "192288233"
+       },
+       {
+        "Id": "631258153"
+       },
+       {
+        "Id": "772929161"
+       },
+       {
+        "Id": "1007173913"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "2486614534",
+      "Name": "Volume_Ambiant",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_Ambiant",
+      "GUID": "{A3650AE9-9F97-4FB6-AC3F-C78A4FDFFA8C}"
+     },
+     {
+      "Id": "3747206233",
+      "Name": "Volume_Main",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_Main",
+      "GUID": "{C6FA2EAF-61ED-4606-84B1-A474FF19B59B}"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{CC72D7C4-74E1-AE76-B9A6-D44D75743AE5}"
+ }
+}

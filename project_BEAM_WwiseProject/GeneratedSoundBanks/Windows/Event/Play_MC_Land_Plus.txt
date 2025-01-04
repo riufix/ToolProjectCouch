@@ -1,0 +1,7 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2473662197	Play_MC_Land_Plus			\Default Work Unit\FOLEY\Land\Play_MC_Land_Plus	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	3673881719	Volume_SFX			\Default Work Unit\Volume_SFX	
+	3747206233	Volume_Main			\Default Work Unit\Volume_Main	
+

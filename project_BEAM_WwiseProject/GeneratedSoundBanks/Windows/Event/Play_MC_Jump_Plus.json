@@ -1,0 +1,218 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1037553240",
+    "Type": "Event",
+    "GUID": "{A0CE6AAD-0908-44F8-84CC-B2A47E068C20}",
+    "Language": "SFX",
+    "Hash": "{1B342813-2316-F669-772E-0A422C46219D}",
+    "ObjectPath": "Play_MC_Jump_Plus",
+    "ShortName": "Play_MC_Jump_Plus",
+    "Path": "Event/Play_MC_Jump_Plus.bnk",
+    "Media": [
+     {
+      "Id": "9509089",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Jump\\MC_Jump_03.wav",
+      "Path": "Media/9509089.wem",
+      "CachePath": "58/{58F886FF-DB13-49E5-0773-5C72BAAD3E30}.wem"
+     },
+     {
+      "Id": "185214485",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Jump\\MC_Jump_10.wav",
+      "Path": "Media/185214485.wem",
+      "CachePath": "11/{1125AE79-AC34-8042-B9FA-E0F6668230D8}.wem"
+     },
+     {
+      "Id": "315196991",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Jump\\MC_Jump_01.wav",
+      "Path": "Media/315196991.wem",
+      "CachePath": "4D/{4D3A70C0-EDBC-2D5D-F830-C70E12865C7C}.wem"
+     },
+     {
+      "Id": "365039029",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Jump\\MC_Jump_04.wav",
+      "Path": "Media/365039029.wem",
+      "CachePath": "7F/{7FD76C39-3747-0C66-9ABB-501B23EEEA1F}.wem"
+     },
+     {
+      "Id": "406342640",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Jump\\MC_Jump_14.wav",
+      "Path": "Media/406342640.wem",
+      "CachePath": "7F/{7FF8C925-CAF3-0BE2-05EB-2723350D7788}.wem"
+     },
+     {
+      "Id": "568299370",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Jump\\MC_Jump_11.wav",
+      "Path": "Media/568299370.wem",
+      "CachePath": "39/{391F3442-D47D-EB55-D761-7B05BC017F26}.wem"
+     },
+     {
+      "Id": "678421750",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Jump\\MC_Jump_08.wav",
+      "Path": "Media/678421750.wem",
+      "CachePath": "A8/{A8C4B65E-F4E4-0EA9-714B-8C4D8491C70B}.wem"
+     },
+     {
+      "Id": "752496819",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Jump\\MC_Jump_13.wav",
+      "Path": "Media/752496819.wem",
+      "CachePath": "9F/{9FF451DE-0FB3-077C-BDEF-F4C342AEC58F}.wem"
+     },
+     {
+      "Id": "776575818",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Jump\\MC_Jump_07.wav",
+      "Path": "Media/776575818.wem",
+      "CachePath": "B1/{B18819F4-C1A1-684E-B94F-56A5E8A50FBD}.wem"
+     },
+     {
+      "Id": "785652874",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Jump\\MC_Jump_05.wav",
+      "Path": "Media/785652874.wem",
+      "CachePath": "FF/{FFDB1E84-1409-65BF-777E-CB47BC6BD5FD}.wem"
+     },
+     {
+      "Id": "869811204",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Jump\\MC_Jump_02.wav",
+      "Path": "Media/869811204.wem",
+      "CachePath": "CE/{CE5387BA-8231-B0F7-EFFC-E7D551EC916D}.wem"
+     },
+     {
+      "Id": "901127557",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Jump\\MC_Jump_06.wav",
+      "Path": "Media/901127557.wem",
+      "CachePath": "DC/{DCAA7793-2138-086F-9EC3-9F24C2E4CA00}.wem"
+     },
+     {
+      "Id": "923342124",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Jump\\MC_Jump_12.wav",
+      "Path": "Media/923342124.wem",
+      "CachePath": "E6/{E603BD18-D122-33A5-5223-6C143ABA0481}.wem"
+     },
+     {
+      "Id": "1017208792",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Jump\\MC_Jump_09.wav",
+      "Path": "Media/1017208792.wem",
+      "CachePath": "C8/{C88BC5FE-C224-BF5D-8294-4073077AB764}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1037553240",
+      "Name": "Play_MC_Jump_Plus",
+      "ObjectPath": "\\Events\\Default Work Unit\\FOLEY\\Jump\\Play_MC_Jump_Plus",
+      "GUID": "{A0CE6AAD-0908-44F8-84CC-B2A47E068C20}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.56397915",
+      "DurationMax": "0.69002086",
+      "MediaRefs": [
+       {
+        "Id": "9509089"
+       },
+       {
+        "Id": "185214485"
+       },
+       {
+        "Id": "315196991"
+       },
+       {
+        "Id": "365039029"
+       },
+       {
+        "Id": "406342640"
+       },
+       {
+        "Id": "568299370"
+       },
+       {
+        "Id": "678421750"
+       },
+       {
+        "Id": "752496819"
+       },
+       {
+        "Id": "776575818"
+       },
+       {
+        "Id": "785652874"
+       },
+       {
+        "Id": "869811204"
+       },
+       {
+        "Id": "901127557"
+       },
+       {
+        "Id": "923342124"
+       },
+       {
+        "Id": "1017208792"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "3673881719",
+      "Name": "Volume_SFX",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_SFX",
+      "GUID": "{928E56BB-9907-4B8F-90F5-6EA9DDE99453}"
+     },
+     {
+      "Id": "3747206233",
+      "Name": "Volume_Main",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_Main",
+      "GUID": "{C6FA2EAF-61ED-4606-84B1-A474FF19B59B}"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{2D6BC515-715D-3FF6-E65C-8D6EF9E74579}"
+ }
+}

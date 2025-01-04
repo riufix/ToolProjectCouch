@@ -1,0 +1,8 @@
+{
+	"BuildId": "27405482",
+	"Modules": 
+	{
+		"EditorTools": "UnrealEditor-EditorTools.dll",
+		"project_BEAM": "UnrealEditor-project_BEAM.dll"
+	}
+}

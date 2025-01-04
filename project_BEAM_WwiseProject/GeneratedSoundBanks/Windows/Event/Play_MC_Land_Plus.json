@@ -1,0 +1,134 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2473662197",
+    "Type": "Event",
+    "GUID": "{40B14DF2-E267-487E-8670-52ABBAD80292}",
+    "Language": "SFX",
+    "Hash": "{8222A940-FF44-4A18-AE86-FE7D650D3AC9}",
+    "ObjectPath": "Play_MC_Land_Plus",
+    "ShortName": "Play_MC_Land_Plus",
+    "Path": "Event/Play_MC_Land_Plus.bnk",
+    "Media": [
+     {
+      "Id": "28371584",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Land\\MC_Land_01.wav",
+      "Path": "Media/28371584.wem",
+      "CachePath": "98/{98B5C667-C872-6511-73B5-7EBBDE749DC5}.wem"
+     },
+     {
+      "Id": "120163173",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Land\\MC_Land_06.wav",
+      "Path": "Media/120163173.wem",
+      "CachePath": "46/{46D8030C-7ECC-6712-90A3-4E95326D5863}.wem"
+     },
+     {
+      "Id": "386583912",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Land\\MC_Land_02.wav",
+      "Path": "Media/386583912.wem",
+      "CachePath": "83/{83E81983-2CE3-A9DD-5404-0661FB4272A2}.wem"
+     },
+     {
+      "Id": "875063017",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Land\\MC_Land_03.wav",
+      "Path": "Media/875063017.wem",
+      "CachePath": "46/{462E3CC0-95FD-4B18-4864-70FE5153FFDB}.wem"
+     },
+     {
+      "Id": "930068429",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Land\\MC_Land_07.wav",
+      "Path": "Media/930068429.wem",
+      "CachePath": "58/{585C528A-39B1-B075-972A-F8F4D8744C80}.wem"
+     },
+     {
+      "Id": "934063967",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Land\\MC_Land_04.wav",
+      "Path": "Media/934063967.wem",
+      "CachePath": "01/{014C1C5C-880A-EC3C-2726-85A24E37A72E}.wem"
+     },
+     {
+      "Id": "1035902416",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Land\\MC_Land_05.wav",
+      "Path": "Media/1035902416.wem",
+      "CachePath": "95/{95F1BD2F-1E32-F52B-E23C-A8ED2160C85D}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2473662197",
+      "Name": "Play_MC_Land_Plus",
+      "ObjectPath": "\\Events\\Default Work Unit\\FOLEY\\Land\\Play_MC_Land_Plus",
+      "GUID": "{40B14DF2-E267-487E-8670-52ABBAD80292}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.5765",
+      "DurationMax": "0.6202292",
+      "MediaRefs": [
+       {
+        "Id": "28371584"
+       },
+       {
+        "Id": "120163173"
+       },
+       {
+        "Id": "386583912"
+       },
+       {
+        "Id": "875063017"
+       },
+       {
+        "Id": "930068429"
+       },
+       {
+        "Id": "934063967"
+       },
+       {
+        "Id": "1035902416"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "3673881719",
+      "Name": "Volume_SFX",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_SFX",
+      "GUID": "{928E56BB-9907-4B8F-90F5-6EA9DDE99453}"
+     },
+     {
+      "Id": "3747206233",
+      "Name": "Volume_Main",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_Main",
+      "GUID": "{C6FA2EAF-61ED-4606-84B1-A474FF19B59B}"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{34E82500-9035-D217-D023-EA3309858548}"
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "4268838697",
+    "Type": "Event",
+    "GUID": "{F9B5E967-292E-4FA7-BB41-F8B01C6AF833}",
+    "Language": "SFX",
+    "Hash": "{A03EB802-040C-9705-DFF2-109369CDA3F7}",
+    "ObjectPath": "Play_AMB_Futuristic_Town_Loop",
+    "ShortName": "Play_AMB_Futuristic_Town_Loop",
+    "Path": "Event/Play_AMB_Futuristic_Town_Loop.bnk",
+    "Media": [
+     {
+      "Id": "1071523345",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB\\AMB_Futuristic_Town.wav",
+      "Path": "Media/1071523345.wem",
+      "CachePath": "77/{77E90A2E-F5EF-5DD9-80DF-42E0E7A5613D}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "4268838697",
+      "Name": "Play_AMB_Futuristic_Town_Loop",
+      "ObjectPath": "\\Events\\Default Work Unit\\AMB\\Play_AMB_Futuristic_Town_Loop",
+      "GUID": "{F9B5E967-292E-4FA7-BB41-F8B01C6AF833}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "1071523345"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "2486614534",
+      "Name": "Volume_Ambiant",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_Ambiant",
+      "GUID": "{A3650AE9-9F97-4FB6-AC3F-C78A4FDFFA8C}"
+     },
+     {
+      "Id": "3747206233",
+      "Name": "Volume_Main",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_Main",
+      "GUID": "{C6FA2EAF-61ED-4606-84B1-A474FF19B59B}"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{F8048E5F-7D89-B9E5-30AF-626C43D8B834}"
+ }
+}

@@ -1,0 +1,7 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1502400506	Play_SFX_BlockDestroy_Boundary01_Plus			\Default Work Unit\SFX\Destruction\Play_SFX_BlockDestroy_Boundary01_Plus	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	3673881719	Volume_SFX			\Default Work Unit\Volume_SFX	
+	3747206233	Volume_Main			\Default Work Unit\Volume_Main	
+

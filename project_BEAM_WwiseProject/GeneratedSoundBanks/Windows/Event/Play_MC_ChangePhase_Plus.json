@@ -1,0 +1,110 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2310608593",
+    "Type": "Event",
+    "GUID": "{A7D45B8A-941F-42E8-BBE4-3DF5545E3057}",
+    "Language": "SFX",
+    "Hash": "{405BCB09-18F2-CE5B-27A0-E4B8930364AA}",
+    "ObjectPath": "Play_MC_ChangePhase_Plus",
+    "ShortName": "Play_MC_ChangePhase_Plus",
+    "Path": "Event/Play_MC_ChangePhase_Plus.bnk",
+    "Media": [
+     {
+      "Id": "163735171",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Change phase\\MC_ChangePhase_03.wav",
+      "Path": "Media/163735171.wem",
+      "CachePath": "82/{8238873F-6168-A318-2B00-745DEB8F0736}.wem"
+     },
+     {
+      "Id": "177279479",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Change phase\\MC_ChangePhase_04.wav",
+      "Path": "Media/177279479.wem",
+      "CachePath": "3C/{3C2CDC3C-72AD-0B10-7FFC-01CFDD5771A3}.wem"
+     },
+     {
+      "Id": "317147145",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Change phase\\MC_ChangePhase_05.wav",
+      "Path": "Media/317147145.wem",
+      "CachePath": "0D/{0D371265-D3F8-13B9-5BF3-72759743329E}.wem"
+     },
+     {
+      "Id": "609874224",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Change phase\\MC_ChangePhase_01.wav",
+      "Path": "Media/609874224.wem",
+      "CachePath": "E8/{E820F3EE-3BD0-3E36-8018-1101C26A5D86}.wem"
+     },
+     {
+      "Id": "863862778",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Change phase\\MC_ChangePhase_02.wav",
+      "Path": "Media/863862778.wem",
+      "CachePath": "42/{42254788-16CE-D538-FF59-4B17A776B0A3}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2310608593",
+      "Name": "Play_MC_ChangePhase_Plus",
+      "ObjectPath": "\\Events\\Default Work Unit\\FOLEY\\Change Phase\\Play_MC_ChangePhase_Plus",
+      "GUID": "{A7D45B8A-941F-42E8-BBE4-3DF5545E3057}",
+      "DurationType": "OneShot",
+      "DurationMin": "1",
+      "DurationMax": "1.2",
+      "MediaRefs": [
+       {
+        "Id": "163735171"
+       },
+       {
+        "Id": "177279479"
+       },
+       {
+        "Id": "317147145"
+       },
+       {
+        "Id": "609874224"
+       },
+       {
+        "Id": "863862778"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "3673881719",
+      "Name": "Volume_SFX",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_SFX",
+      "GUID": "{928E56BB-9907-4B8F-90F5-6EA9DDE99453}"
+     },
+     {
+      "Id": "3747206233",
+      "Name": "Volume_Main",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_Main",
+      "GUID": "{C6FA2EAF-61ED-4606-84B1-A474FF19B59B}"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{6D9042DF-6B6C-DD4F-61CC-0BFECE50BDE5}"
+ }
+}

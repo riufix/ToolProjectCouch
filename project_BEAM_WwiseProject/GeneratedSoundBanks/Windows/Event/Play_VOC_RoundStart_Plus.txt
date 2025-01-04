@@ -1,0 +1,7 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1652826792	Play_VOC_RoundStart_Plus			\Default Work Unit\VOICES\Play_VOC_RoundStart_Plus	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	3190188375	Volume_Voices			\Default Work Unit\Volume_Voices	
+	3747206233	Volume_Main			\Default Work Unit\Volume_Main	
+

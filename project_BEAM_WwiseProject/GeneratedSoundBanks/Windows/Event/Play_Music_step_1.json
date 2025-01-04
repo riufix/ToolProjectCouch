@@ -1,0 +1,66 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "430371760",
+    "Type": "Event",
+    "GUID": "{DE9BFF62-D6BB-45F5-A118-B0D03A917257}",
+    "Language": "SFX",
+    "Hash": "{D6C73496-C65C-E709-97B4-2A36BE4A16E7}",
+    "ObjectPath": "Play_Music_step_1",
+    "ShortName": "Play_Music_step_1",
+    "Path": "Event/Play_Music_step_1.bnk",
+    "Media": [
+     {
+      "Id": "82415005",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Music_F_Step1_LP.wav",
+      "Path": "Media/82415005.wem",
+      "CachePath": "9A/{9A6BEDD2-C7B3-909A-AED9-29D36804BDC9}.wem"
+     },
+     {
+      "Id": "939275165",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Music_F_Step1_OneShot.wav",
+      "Path": "Media/939275165.wem",
+      "CachePath": "0D/{0D2D9EDD-7C5E-03E8-3996-39B436F7523B}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "430371760",
+      "Name": "Play_Music_step_1",
+      "ObjectPath": "\\Events\\Default Work Unit\\MUSIC\\Step1\\Play_Music_step_1",
+      "GUID": "{DE9BFF62-D6BB-45F5-A118-B0D03A917257}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "82415005"
+       },
+       {
+        "Id": "939275165"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "3891337659",
+      "Name": "Volume_Music",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_Music",
+      "GUID": "{06EC6D23-5F8D-41F0-B6CA-43F24380AFE1}"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{9D74BDCB-AC8D-23CB-B480-8C221F7EF780}"
+ }
+}

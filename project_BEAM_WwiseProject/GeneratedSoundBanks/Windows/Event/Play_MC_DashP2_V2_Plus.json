@@ -1,0 +1,110 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2962834893",
+    "Type": "Event",
+    "GUID": "{2ED731B0-8A7E-4B46-9EB6-4C8608C6C84C}",
+    "Language": "SFX",
+    "Hash": "{71AF19D9-3E03-814D-973D-6E3D1D4A54D1}",
+    "ObjectPath": "Play_MC_DashP2_V2_Plus",
+    "ShortName": "Play_MC_DashP2_V2_Plus",
+    "Path": "Event/Play_MC_DashP2_V2_Plus.bnk",
+    "Media": [
+     {
+      "Id": "26106066",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_DashP2_V2_03.wav",
+      "Path": "Media/26106066.wem",
+      "CachePath": "B8/{B85791D6-7480-6C2A-467B-079717D49A03}.wem"
+     },
+     {
+      "Id": "638331783",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_DashP2_V2_05.wav",
+      "Path": "Media/638331783.wem",
+      "CachePath": "B9/{B9E3DCB5-75A9-2D9D-76AA-364041C32F00}.wem"
+     },
+     {
+      "Id": "673155253",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_DashP2_V2_04.wav",
+      "Path": "Media/673155253.wem",
+      "CachePath": "0C/{0C325A4E-BD6F-41EB-63FF-E18082938322}.wem"
+     },
+     {
+      "Id": "679009900",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_DashP2_V2_01.wav",
+      "Path": "Media/679009900.wem",
+      "CachePath": "C3/{C33F3192-04AE-2B70-F520-595933FA6A91}.wem"
+     },
+     {
+      "Id": "877788868",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MC_DashP2_V2_02.wav",
+      "Path": "Media/877788868.wem",
+      "CachePath": "D8/{D84C1EB7-FA78-ADD7-B5A3-90E31EAAFB16}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2962834893",
+      "Name": "Play_MC_DashP2_V2_Plus",
+      "ObjectPath": "\\Events\\Default Work Unit\\FOLEY\\Dash\\Play_MC_DashP2_V2_Plus",
+      "GUID": "{2ED731B0-8A7E-4B46-9EB6-4C8608C6C84C}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.1072708",
+      "DurationMax": "1.8",
+      "MediaRefs": [
+       {
+        "Id": "26106066"
+       },
+       {
+        "Id": "638331783"
+       },
+       {
+        "Id": "673155253"
+       },
+       {
+        "Id": "679009900"
+       },
+       {
+        "Id": "877788868"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "3673881719",
+      "Name": "Volume_SFX",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_SFX",
+      "GUID": "{928E56BB-9907-4B8F-90F5-6EA9DDE99453}"
+     },
+     {
+      "Id": "3747206233",
+      "Name": "Volume_Main",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_Main",
+      "GUID": "{C6FA2EAF-61ED-4606-84B1-A474FF19B59B}"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{AD39E6A7-190E-0F86-7D51-2386FA5A835F}"
+ }
+}

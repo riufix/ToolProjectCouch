@@ -1,0 +1,7 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2595964101	Play_AMB_Arena_GameOver			\Default Work Unit\AMB\Play_AMB_Arena_GameOver	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	2486614534	Volume_Ambiant			\Default Work Unit\Volume_Ambiant	
+	3747206233	Volume_Main			\Default Work Unit\Volume_Main	
+

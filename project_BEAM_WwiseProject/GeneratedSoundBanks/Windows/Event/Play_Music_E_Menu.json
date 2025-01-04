@@ -1,0 +1,54 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2379659015",
+    "Type": "Event",
+    "GUID": "{12C577E7-9BBF-40F2-8701-EECE17C95F72}",
+    "Language": "SFX",
+    "Hash": "{6B7586D3-FFA3-E599-31DC-BDD0E50E05A4}",
+    "ObjectPath": "Play_Music_E_Menu",
+    "ShortName": "Play_Music_E_Menu",
+    "Path": "Event/Play_Music_E_Menu.bnk",
+    "Media": [
+     {
+      "Id": "243347790",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "MUSIC\\Music_E_Menu.wav",
+      "Path": "Media/243347790.wem",
+      "CachePath": "F7/{F71D5523-55ED-F7F5-A628-2E3D4D052068}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2379659015",
+      "Name": "Play_Music_E_Menu",
+      "ObjectPath": "\\Events\\Default Work Unit\\MUSIC\\Menu\\Play_Music_E_Menu",
+      "GUID": "{12C577E7-9BBF-40F2-8701-EECE17C95F72}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "243347790"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "3891337659",
+      "Name": "Volume_Music",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_Music",
+      "GUID": "{06EC6D23-5F8D-41F0-B6CA-43F24380AFE1}"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{C2AA2D28-F99B-2AB3-018D-967504C6BF12}"
+ }
+}

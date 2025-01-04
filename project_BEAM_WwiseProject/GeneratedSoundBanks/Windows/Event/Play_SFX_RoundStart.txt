@@ -1,0 +1,7 @@
+Event	ID	Name			Wwise Object Path	Notes
+	298821934	Play_SFX_RoundStart			\Default Work Unit\SFX\Play_SFX_RoundStart	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	3190188375	Volume_Voices			\Default Work Unit\Volume_Voices	
+	3747206233	Volume_Main			\Default Work Unit\Volume_Main	
+

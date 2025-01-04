@@ -1,0 +1,78 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "430371762",
+    "Type": "Event",
+    "GUID": "{42FDA490-FB40-4388-92F4-2034E45E238D}",
+    "Language": "SFX",
+    "Hash": "{F0D70F2E-D928-790B-B0CA-06E3C1B8B30D}",
+    "ObjectPath": "Play_Music_step_3",
+    "ShortName": "Play_Music_step_3",
+    "Path": "Event/Play_Music_step_3.bnk",
+    "Media": [
+     {
+      "Id": "469427099",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Music_F_Step3_OneShot.wav",
+      "Path": "Media/469427099.wem",
+      "CachePath": "13/{135376AE-6C79-A463-1595-94DCC5C76B97}.wem"
+     },
+     {
+      "Id": "878067805",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Music_F_Step3_LP.wav",
+      "Path": "Media/878067805.wem",
+      "CachePath": "8A/{8AD42C4F-7224-51C3-4B9F-2B97974391BC}.wem"
+     },
+     {
+      "Id": "1019066443",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Music_F_Transi.wav",
+      "Path": "Media/1019066443.wem",
+      "CachePath": "EC/{EC2D8F32-0B93-1BEA-F03F-1084933AA894}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "430371762",
+      "Name": "Play_Music_step_3",
+      "ObjectPath": "\\Events\\Default Work Unit\\MUSIC\\Step3\\Play_Music_step_3",
+      "GUID": "{42FDA490-FB40-4388-92F4-2034E45E238D}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "469427099"
+       },
+       {
+        "Id": "878067805"
+       },
+       {
+        "Id": "1019066443"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "3891337659",
+      "Name": "Volume_Music",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_Music",
+      "GUID": "{06EC6D23-5F8D-41F0-B6CA-43F24380AFE1}"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{DC1D4DD6-6A91-1C74-6B4A-414F932000AB}"
+ }
+}

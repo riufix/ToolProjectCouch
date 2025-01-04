@@ -1,0 +1,62 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "4156170877",
+    "Type": "Event",
+    "GUID": "{31794AC4-B927-4F01-8E8B-EBB87F835F81}",
+    "Language": "SFX",
+    "Hash": "{D4DB7376-19FA-DD28-8758-294692AFAB94}",
+    "ObjectPath": "Play_SFX_Push_Activation",
+    "ShortName": "Play_SFX_Push_Activation",
+    "Path": "Event/Play_SFX_Push_Activation.bnk",
+    "Media": [
+     {
+      "Id": "483872067",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "SFX\\PUSH\\SFX_Push_Activation.wav",
+      "Path": "Media/483872067.wem",
+      "CachePath": "44/{446D0C6C-9D86-267A-288C-2A624992844F}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "4156170877",
+      "Name": "Play_SFX_Push_Activation",
+      "ObjectPath": "\\Events\\Default Work Unit\\SFX\\Push\\Play_SFX_Push_Activation",
+      "GUID": "{31794AC4-B927-4F01-8E8B-EBB87F835F81}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.4107292",
+      "DurationMax": "1.4107292",
+      "MediaRefs": [
+       {
+        "Id": "483872067"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "3673881719",
+      "Name": "Volume_SFX",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_SFX",
+      "GUID": "{928E56BB-9907-4B8F-90F5-6EA9DDE99453}"
+     },
+     {
+      "Id": "3747206233",
+      "Name": "Volume_Main",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_Main",
+      "GUID": "{C6FA2EAF-61ED-4606-84B1-A474FF19B59B}"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{7728EFA6-FBE0-AA9D-466A-CD3DD7F61472}"
+ }
+}

@@ -1,0 +1,7 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1808301856	Play_SFX_Hit_TackHitP2			\Default Work Unit\SFX\Hit\Play_SFX_Hit_TackHitP2	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	3673881719	Volume_SFX			\Default Work Unit\Volume_SFX	
+	3747206233	Volume_Main			\Default Work Unit\Volume_Main	
+

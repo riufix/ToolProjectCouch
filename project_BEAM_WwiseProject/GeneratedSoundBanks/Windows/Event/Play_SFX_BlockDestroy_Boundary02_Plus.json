@@ -1,0 +1,86 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "654501143",
+    "Type": "Event",
+    "GUID": "{4F0DC06D-BB49-499B-B881-758570A736AE}",
+    "Language": "SFX",
+    "Hash": "{1D473B81-B629-DC7A-A8E4-C77915ADD2FA}",
+    "ObjectPath": "Play_SFX_BlockDestroy_Boundary02_Plus",
+    "ShortName": "Play_SFX_BlockDestroy_Boundary02_Plus",
+    "Path": "Event/Play_SFX_BlockDestroy_Boundary02_Plus.bnk",
+    "Media": [
+     {
+      "Id": "584129042",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "SFX_BlockDestroy_Boundary02_03.wav",
+      "Path": "Media/584129042.wem",
+      "CachePath": "E8/{E8C31518-645C-D9AE-D43D-3034D290771D}.wem"
+     },
+     {
+      "Id": "751025758",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "SFX_BlockDestroy_Boundary02_02.wav",
+      "Path": "Media/751025758.wem",
+      "CachePath": "89/{89E7D785-7171-4F72-C86E-50E32AB48C45}.wem"
+     },
+     {
+      "Id": "816896188",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "SFX_BlockDestroy_Boundary02_01.wav",
+      "Path": "Media/816896188.wem",
+      "CachePath": "57/{57CB5E44-7B88-E8FA-49D1-B81B86835A33}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "654501143",
+      "Name": "Play_SFX_BlockDestroy_Boundary02_Plus",
+      "ObjectPath": "\\Events\\Default Work Unit\\SFX\\Destruction\\Play_SFX_BlockDestroy_Boundary02_Plus",
+      "GUID": "{4F0DC06D-BB49-499B-B881-758570A736AE}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.41725",
+      "DurationMax": "0.4430625",
+      "MediaRefs": [
+       {
+        "Id": "584129042"
+       },
+       {
+        "Id": "751025758"
+       },
+       {
+        "Id": "816896188"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "3673881719",
+      "Name": "Volume_SFX",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_SFX",
+      "GUID": "{928E56BB-9907-4B8F-90F5-6EA9DDE99453}"
+     },
+     {
+      "Id": "3747206233",
+      "Name": "Volume_Main",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_Main",
+      "GUID": "{C6FA2EAF-61ED-4606-84B1-A474FF19B59B}"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{783ACB24-0218-B428-C2AC-10FDDE998A7C}"
+ }
+}

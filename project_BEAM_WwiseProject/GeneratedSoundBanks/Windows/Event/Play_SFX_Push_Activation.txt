@@ -1,0 +1,7 @@
+Event	ID	Name			Wwise Object Path	Notes
+	4156170877	Play_SFX_Push_Activation			\Default Work Unit\SFX\Push\Play_SFX_Push_Activation	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	3673881719	Volume_SFX			\Default Work Unit\Volume_SFX	
+	3747206233	Volume_Main			\Default Work Unit\Volume_Main	
+

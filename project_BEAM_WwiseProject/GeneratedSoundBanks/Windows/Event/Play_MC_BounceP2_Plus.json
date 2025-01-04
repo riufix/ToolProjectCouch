@@ -1,0 +1,146 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1841374410",
+    "Type": "Event",
+    "GUID": "{0E588A7D-02D7-4695-8FDF-7A62E6A7F599}",
+    "Language": "SFX",
+    "Hash": "{0455C591-03C0-A594-E1C9-3533F659CE50}",
+    "ObjectPath": "Play_MC_BounceP2_Plus",
+    "ShortName": "Play_MC_BounceP2_Plus",
+    "Path": "Event/Play_MC_BounceP2_Plus.bnk",
+    "Media": [
+     {
+      "Id": "21949485",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Bounce\\MC_BounceP2_02.wav",
+      "Path": "Media/21949485.wem",
+      "CachePath": "2C/{2C0BB40C-515F-2CAF-ACF6-70E7C6A8401D}.wem"
+     },
+     {
+      "Id": "37797932",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Bounce\\MC_BounceP2_08.wav",
+      "Path": "Media/37797932.wem",
+      "CachePath": "DB/{DB005608-8CB7-FACA-F938-409D1EBBD15F}.wem"
+     },
+     {
+      "Id": "139379467",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Bounce\\MC_BounceP2_06.wav",
+      "Path": "Media/139379467.wem",
+      "CachePath": "EF/{EF2B358B-FB33-F2D3-5926-B167C201AA62}.wem"
+     },
+     {
+      "Id": "344060991",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Bounce\\MC_BounceP2_01.wav",
+      "Path": "Media/344060991.wem",
+      "CachePath": "A2/{A27B398B-9420-7372-1AA6-EFFA948A3C37}.wem"
+     },
+     {
+      "Id": "492831347",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Bounce\\MC_BounceP2_03.wav",
+      "Path": "Media/492831347.wem",
+      "CachePath": "54/{54831A32-6D53-4168-BD51-E4AB2A0A037E}.wem"
+     },
+     {
+      "Id": "515750891",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Bounce\\MC_BounceP2_04.wav",
+      "Path": "Media/515750891.wem",
+      "CachePath": "52/{528724CA-E289-93F1-DE17-B5784C409848}.wem"
+     },
+     {
+      "Id": "709067238",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Bounce\\MC_BounceP2_07.wav",
+      "Path": "Media/709067238.wem",
+      "CachePath": "E5/{E5C133F8-AD6F-2710-4428-A15052CBE570}.wem"
+     },
+     {
+      "Id": "859457536",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Bounce\\MC_BounceP2_05.wav",
+      "Path": "Media/859457536.wem",
+      "CachePath": "A3/{A394637C-5237-DA5D-0415-4B5E729FE94D}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1841374410",
+      "Name": "Play_MC_BounceP2_Plus",
+      "ObjectPath": "\\Events\\Default Work Unit\\FOLEY\\Bounce\\Play_MC_BounceP2_Plus",
+      "GUID": "{0E588A7D-02D7-4695-8FDF-7A62E6A7F599}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.49389583",
+      "DurationMax": "0.5055625",
+      "MediaRefs": [
+       {
+        "Id": "21949485"
+       },
+       {
+        "Id": "37797932"
+       },
+       {
+        "Id": "139379467"
+       },
+       {
+        "Id": "344060991"
+       },
+       {
+        "Id": "492831347"
+       },
+       {
+        "Id": "515750891"
+       },
+       {
+        "Id": "709067238"
+       },
+       {
+        "Id": "859457536"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "3673881719",
+      "Name": "Volume_SFX",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_SFX",
+      "GUID": "{928E56BB-9907-4B8F-90F5-6EA9DDE99453}"
+     },
+     {
+      "Id": "3747206233",
+      "Name": "Volume_Main",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_Main",
+      "GUID": "{C6FA2EAF-61ED-4606-84B1-A474FF19B59B}"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{C1583CDE-6F2C-DB6C-194A-972599655689}"
+ }
+}

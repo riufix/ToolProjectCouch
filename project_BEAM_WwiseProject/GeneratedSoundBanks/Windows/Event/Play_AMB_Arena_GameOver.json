@@ -1,0 +1,62 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2595964101",
+    "Type": "Event",
+    "GUID": "{B54ADCDE-33D8-49F2-8EDA-EE192CF1E0B2}",
+    "Language": "SFX",
+    "Hash": "{D9EA6490-5217-DFC6-1466-1EF95DCA8B85}",
+    "ObjectPath": "Play_AMB_Arena_GameOver",
+    "ShortName": "Play_AMB_Arena_GameOver",
+    "Path": "Event/Play_AMB_Arena_GameOver.bnk",
+    "Media": [
+     {
+      "Id": "739299433",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB\\AMB_Arena_GameOver.wav",
+      "Path": "Media/739299433.wem",
+      "CachePath": "A3/{A377AFD0-AA7B-1D81-7017-7230A6E1EC63}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2595964101",
+      "Name": "Play_AMB_Arena_GameOver",
+      "ObjectPath": "\\Events\\Default Work Unit\\AMB\\Play_AMB_Arena_GameOver",
+      "GUID": "{B54ADCDE-33D8-49F2-8EDA-EE192CF1E0B2}",
+      "DurationType": "OneShot",
+      "DurationMin": "16.333334",
+      "DurationMax": "16.333334",
+      "MediaRefs": [
+       {
+        "Id": "739299433"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "2486614534",
+      "Name": "Volume_Ambiant",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_Ambiant",
+      "GUID": "{A3650AE9-9F97-4FB6-AC3F-C78A4FDFFA8C}"
+     },
+     {
+      "Id": "3747206233",
+      "Name": "Volume_Main",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_Main",
+      "GUID": "{C6FA2EAF-61ED-4606-84B1-A474FF19B59B}"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{C8BDB435-473D-3B6A-3EDA-DBFA6C22EF8E}"
+ }
+}

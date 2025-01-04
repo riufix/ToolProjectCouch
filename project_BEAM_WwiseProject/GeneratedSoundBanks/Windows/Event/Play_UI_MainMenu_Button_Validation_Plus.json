@@ -1,0 +1,86 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "34700909",
+    "Type": "Event",
+    "GUID": "{8ED52A03-F235-455E-91FA-7811C408FD7C}",
+    "Language": "SFX",
+    "Hash": "{49DCD2C1-C0E7-4DA0-7D39-7E5CCEBFD2EB}",
+    "ObjectPath": "Play_UI_MainMenu_Button_Validation_Plus",
+    "ShortName": "Play_UI_MainMenu_Button_Validation_Plus",
+    "Path": "Event/Play_UI_MainMenu_Button_Validation_Plus.bnk",
+    "Media": [
+     {
+      "Id": "121914326",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "UI\\UI_MainMenu_Button_Validation_03.wav",
+      "Path": "Media/121914326.wem",
+      "CachePath": "7F/{7FEB0FBE-87B7-C79F-D8DC-1900D0416C51}.wem"
+     },
+     {
+      "Id": "574065251",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "UI\\UI_MainMenu_Button_Validation_01.wav",
+      "Path": "Media/574065251.wem",
+      "CachePath": "B1/{B148684B-33C0-41DB-DF09-3D2905F5AAE8}.wem"
+     },
+     {
+      "Id": "821539718",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "UI\\UI_MainMenu_Button_Validation_02.wav",
+      "Path": "Media/821539718.wem",
+      "CachePath": "E7/{E7154EB8-3F75-116C-95C7-41D532EC9900}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "34700909",
+      "Name": "Play_UI_MainMenu_Button_Validation_Plus",
+      "ObjectPath": "\\Events\\Default Work Unit\\UI\\Play_UI_MainMenu_Button_Validation_Plus",
+      "GUID": "{8ED52A03-F235-455E-91FA-7811C408FD7C}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.0853968",
+      "DurationMax": "1.1886168",
+      "MediaRefs": [
+       {
+        "Id": "121914326"
+       },
+       {
+        "Id": "574065251"
+       },
+       {
+        "Id": "821539718"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "3673881719",
+      "Name": "Volume_SFX",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_SFX",
+      "GUID": "{928E56BB-9907-4B8F-90F5-6EA9DDE99453}"
+     },
+     {
+      "Id": "3747206233",
+      "Name": "Volume_Main",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_Main",
+      "GUID": "{C6FA2EAF-61ED-4606-84B1-A474FF19B59B}"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{0E75AAE0-260C-0843-A214-97C59CB01730}"
+ }
+}

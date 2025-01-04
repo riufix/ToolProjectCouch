@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1689212982	Stop_MC_WalkingP2			\Default Work Unit\FOLEY\Walk\Stop_MC_WalkingP2	
+

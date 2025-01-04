@@ -1,0 +1,60 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3852913709",
+    "Type": "Event",
+    "GUID": "{1C5C5E7A-AAB4-44F8-B886-C6EB1208A3FB}",
+    "Language": "SFX",
+    "Hash": "{D8E73012-62A3-1DB7-CD21-24A4C6FB59B8}",
+    "ObjectPath": "Play_AMB_Arena_Crowd_Loop",
+    "ShortName": "Play_AMB_Arena_Crowd_Loop",
+    "Path": "Event/Play_AMB_Arena_Crowd_Loop.bnk",
+    "Media": [
+     {
+      "Id": "839315681",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB\\AMB_Arena_Crowd.wav",
+      "Path": "Media/839315681.wem",
+      "CachePath": "91/{9196CDFB-2F71-489D-2B8F-192385566C67}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3852913709",
+      "Name": "Play_AMB_Arena_Crowd_Loop",
+      "ObjectPath": "\\Events\\Default Work Unit\\AMB\\Play_AMB_Arena_Crowd_Loop",
+      "GUID": "{1C5C5E7A-AAB4-44F8-B886-C6EB1208A3FB}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "839315681"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "2486614534",
+      "Name": "Volume_Ambiant",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_Ambiant",
+      "GUID": "{A3650AE9-9F97-4FB6-AC3F-C78A4FDFFA8C}"
+     },
+     {
+      "Id": "3747206233",
+      "Name": "Volume_Main",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_Main",
+      "GUID": "{C6FA2EAF-61ED-4606-84B1-A474FF19B59B}"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{C8A7F46F-D777-6C8E-59F7-D120FE762F8C}"
+ }
+}

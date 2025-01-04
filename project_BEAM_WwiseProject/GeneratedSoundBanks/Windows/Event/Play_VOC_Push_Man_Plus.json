@@ -1,0 +1,98 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "4180818375",
+    "Type": "Event",
+    "GUID": "{4F11DE37-18C2-40C8-ADCB-FCBB3F02E8B7}",
+    "Language": "SFX",
+    "Hash": "{B5F97197-3AC7-151E-8BAA-F3DE66C95D61}",
+    "ObjectPath": "Play_VOC_Push_Man_Plus",
+    "ShortName": "Play_VOC_Push_Man_Plus",
+    "Path": "Event/Play_VOC_Push_Man_Plus.bnk",
+    "Media": [
+     {
+      "Id": "17584481",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "VOICES\\VOC_Push_Man_04.wav",
+      "Path": "Media/17584481.wem",
+      "CachePath": "79/{7942599F-9079-82DB-1036-684A0D815FFF}.wem"
+     },
+     {
+      "Id": "416924920",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "VOICES\\VOC_Push_Man_02.wav",
+      "Path": "Media/416924920.wem",
+      "CachePath": "40/{40AC1F8B-BBC4-03FD-6525-CEBE6BF47290}.wem"
+     },
+     {
+      "Id": "552367063",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "VOICES\\VOC_Push_Man_03.wav",
+      "Path": "Media/552367063.wem",
+      "CachePath": "08/{08C05E21-4EB5-A712-B3FA-0362A4E8A6F0}.wem"
+     },
+     {
+      "Id": "948004769",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "VOICES\\VOC_Push_Man_01.wav",
+      "Path": "Media/948004769.wem",
+      "CachePath": "F9/{F95AD8DC-EA1B-5EB4-358A-F57F6A7B342B}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "4180818375",
+      "Name": "Play_VOC_Push_Man_Plus",
+      "ObjectPath": "\\Events\\Default Work Unit\\VOICES\\Play_VOC_Push_Man_Plus",
+      "GUID": "{4F11DE37-18C2-40C8-ADCB-FCBB3F02E8B7}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.74072564",
+      "DurationMax": "0.97253966",
+      "MediaRefs": [
+       {
+        "Id": "17584481"
+       },
+       {
+        "Id": "416924920"
+       },
+       {
+        "Id": "552367063"
+       },
+       {
+        "Id": "948004769"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "3190188375",
+      "Name": "Volume_Voices",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_Voices",
+      "GUID": "{A30D2C1D-8F38-44BA-AD63-DA7281186AF3}"
+     },
+     {
+      "Id": "3747206233",
+      "Name": "Volume_Main",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_Main",
+      "GUID": "{C6FA2EAF-61ED-4606-84B1-A474FF19B59B}"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{46A642B9-A2EC-7CE5-4D87-F330AD335D67}"
+ }
+}

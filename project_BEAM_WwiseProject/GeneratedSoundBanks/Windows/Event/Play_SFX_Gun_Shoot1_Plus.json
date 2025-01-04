@@ -1,0 +1,110 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "969666628",
+    "Type": "Event",
+    "GUID": "{0499ED16-9355-4F94-A5C4-986188284A16}",
+    "Language": "SFX",
+    "Hash": "{83EAE9B0-7978-AF4A-5FEB-95F400EE9C48}",
+    "ObjectPath": "Play_SFX_Gun_Shoot1_Plus",
+    "ShortName": "Play_SFX_Gun_Shoot1_Plus",
+    "Path": "Event/Play_SFX_Gun_Shoot1_Plus.bnk",
+    "Media": [
+     {
+      "Id": "450879260",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "SFX\\GUN\\SFX_Gun_Shoot1_04.wav",
+      "Path": "Media/450879260.wem",
+      "CachePath": "87/{8792601A-C255-6C86-F7E9-6764B5CB1F94}.wem"
+     },
+     {
+      "Id": "624012707",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "SFX\\GUN\\SFX_Gun_Shoot1_03.wav",
+      "Path": "Media/624012707.wem",
+      "CachePath": "44/{44F99F6E-9021-30F4-E943-D1C6A307A90A}.wem"
+     },
+     {
+      "Id": "661026655",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "SFX\\GUN\\SFX_Gun_Shoot1_01.wav",
+      "Path": "Media/661026655.wem",
+      "CachePath": "63/{63A2FA7E-17E2-FBC6-89D0-C1AF99CFCCD3}.wem"
+     },
+     {
+      "Id": "674961635",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "SFX\\GUN\\SFX_Gun_Shoot1_05.wav",
+      "Path": "Media/674961635.wem",
+      "CachePath": "62/{6283BA15-7B72-182A-811A-028A44E23EE3}.wem"
+     },
+     {
+      "Id": "792673216",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "SFX\\GUN\\SFX_Gun_Shoot1_02.wav",
+      "Path": "Media/792673216.wem",
+      "CachePath": "D9/{D924196B-BAD7-EC82-9023-D73B38D404A2}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "969666628",
+      "Name": "Play_SFX_Gun_Shoot1_Plus",
+      "ObjectPath": "\\Events\\Default Work Unit\\SFX\\Gun\\Play_SFX_Gun_Shoot1_Plus",
+      "GUID": "{0499ED16-9355-4F94-A5C4-986188284A16}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.49147916",
+      "DurationMax": "0.6996458",
+      "MediaRefs": [
+       {
+        "Id": "450879260"
+       },
+       {
+        "Id": "624012707"
+       },
+       {
+        "Id": "661026655"
+       },
+       {
+        "Id": "674961635"
+       },
+       {
+        "Id": "792673216"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "3673881719",
+      "Name": "Volume_SFX",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_SFX",
+      "GUID": "{928E56BB-9907-4B8F-90F5-6EA9DDE99453}"
+     },
+     {
+      "Id": "3747206233",
+      "Name": "Volume_Main",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_Main",
+      "GUID": "{C6FA2EAF-61ED-4606-84B1-A474FF19B59B}"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{15E58868-910A-06FB-C8A5-126CBBBA37E2}"
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1218942950",
+    "Type": "Event",
+    "GUID": "{AB30D5A1-07FA-4425-B1DA-5FE115BC1EFA}",
+    "Language": "SFX",
+    "Hash": "{1C2C2325-8DB7-3093-0637-31CD5A54D590}",
+    "ObjectPath": "Stop_AMB_WaitRoom_Loop",
+    "ShortName": "Stop_AMB_WaitRoom_Loop",
+    "Path": "Event/Stop_AMB_WaitRoom_Loop.bnk",
+    "Events": [
+     {
+      "Id": "1218942950",
+      "Name": "Stop_AMB_WaitRoom_Loop",
+      "ObjectPath": "\\Events\\Default Work Unit\\AMB\\Stop_AMB_WaitRoom_Loop",
+      "GUID": "{AB30D5A1-07FA-4425-B1DA-5FE115BC1EFA}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{1F461502-D740-7DE3-5936-443B9C910543}"
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3497195932",
+    "Type": "Event",
+    "GUID": "{E7249ABE-EEDB-4F4A-90A9-6092E0EABE9B}",
+    "Language": "SFX",
+    "Hash": "{47AF9CFF-4668-0F23-F49B-E9B40415B9BD}",
+    "ObjectPath": "Play_MC_WalkingP2",
+    "ShortName": "Play_MC_WalkingP2",
+    "Path": "Event/Play_MC_WalkingP2.bnk",
+    "Media": [
+     {
+      "Id": "618594614",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Walk\\MC_WalkingP2.wav",
+      "Path": "Media/618594614.wem",
+      "CachePath": "DD/{DD0DF611-F35A-D66C-882D-4D307940AFA2}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3497195932",
+      "Name": "Play_MC_WalkingP2",
+      "ObjectPath": "\\Events\\Default Work Unit\\FOLEY\\Walk\\Play_MC_WalkingP2",
+      "GUID": "{E7249ABE-EEDB-4F4A-90A9-6092E0EABE9B}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "618594614"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "2217470369",
+      "Name": "Phase2Speed",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Phase2Speed",
+      "GUID": "{ED0136F3-43D6-4A2C-B72E-BA673F44CAB0}"
+     },
+     {
+      "Id": "3673881719",
+      "Name": "Volume_SFX",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_SFX",
+      "GUID": "{928E56BB-9907-4B8F-90F5-6EA9DDE99453}"
+     },
+     {
+      "Id": "3747206233",
+      "Name": "Volume_Main",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_Main",
+      "GUID": "{C6FA2EAF-61ED-4606-84B1-A474FF19B59B}"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{F9E7E1AC-B9D0-E8D2-BFC7-F824B4E80F3A}"
+ }
+}

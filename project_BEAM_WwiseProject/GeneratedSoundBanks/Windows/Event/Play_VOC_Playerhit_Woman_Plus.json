@@ -1,0 +1,194 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1122989481",
+    "Type": "Event",
+    "GUID": "{65507F87-B9A3-450D-8E07-E2861A0234BF}",
+    "Language": "SFX",
+    "Hash": "{FC802BBB-405A-D603-D9AD-50A1FF7797C5}",
+    "ObjectPath": "Play_VOC_Playerhit_Woman_Plus",
+    "ShortName": "Play_VOC_Playerhit_Woman_Plus",
+    "Path": "Event/Play_VOC_Playerhit_Woman_Plus.bnk",
+    "Media": [
+     {
+      "Id": "204955313",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "VOICES\\VOC_Playerhit_Girl_12.wav",
+      "Path": "Media/204955313.wem",
+      "CachePath": "E3/{E3387E3B-FA3A-647A-32DC-DF3356D653F8}.wem"
+     },
+     {
+      "Id": "310801162",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "VOICES\\VOC_Playerhit_Girl_05.wav",
+      "Path": "Media/310801162.wem",
+      "CachePath": "6F/{6FD8731F-D1DF-6D57-9823-8464A46C8D18}.wem"
+     },
+     {
+      "Id": "330167672",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "VOICES\\VOC_Playerhit_Girl_01.wav",
+      "Path": "Media/330167672.wem",
+      "CachePath": "79/{79DFB288-3BA6-0EDC-D791-9CBC04F201BB}.wem"
+     },
+     {
+      "Id": "477940503",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "VOICES\\VOC_Playerhit_Girl_07.wav",
+      "Path": "Media/477940503.wem",
+      "CachePath": "2F/{2FAB489E-9020-E84F-CB00-032FA08D6B5A}.wem"
+     },
+     {
+      "Id": "547285015",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "VOICES\\VOC_Playerhit_Girl_03.wav",
+      "Path": "Media/547285015.wem",
+      "CachePath": "B0/{B014AB74-C61C-DB08-A4D4-4572E3E1A6C7}.wem"
+     },
+     {
+      "Id": "628901412",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "VOICES\\VOC_Playerhit_Girl_08.wav",
+      "Path": "Media/628901412.wem",
+      "CachePath": "2D/{2D44AD88-0B0F-8E9D-7BE2-ADCD0DB2230D}.wem"
+     },
+     {
+      "Id": "688455824",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "VOICES\\VOC_Playerhit_Girl_04.wav",
+      "Path": "Media/688455824.wem",
+      "CachePath": "08/{08C7C93D-79AD-5E68-0E42-B4CA7AD1113C}.wem"
+     },
+     {
+      "Id": "751787101",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "VOICES\\VOC_Playerhit_Girl_09.wav",
+      "Path": "Media/751787101.wem",
+      "CachePath": "C0/{C0E0AE1F-51D3-F319-6E62-CEA47A69D1BB}.wem"
+     },
+     {
+      "Id": "839000551",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "VOICES\\VOC_Playerhit_Girl_11.wav",
+      "Path": "Media/839000551.wem",
+      "CachePath": "5F/{5F2DB785-1F7C-FD5F-2DDB-33DC893E43CC}.wem"
+     },
+     {
+      "Id": "983052996",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "VOICES\\VOC_Playerhit_Girl_10.wav",
+      "Path": "Media/983052996.wem",
+      "CachePath": "53/{5313B0D5-4945-07D7-58DF-9DE01EA09BA1}.wem"
+     },
+     {
+      "Id": "1043824417",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "VOICES\\VOC_Playerhit_Girl_02.wav",
+      "Path": "Media/1043824417.wem",
+      "CachePath": "41/{4150D848-4915-4227-2B4A-949D584626A0}.wem"
+     },
+     {
+      "Id": "1057530434",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "VOICES\\VOC_Playerhit_Girl_06.wav",
+      "Path": "Media/1057530434.wem",
+      "CachePath": "D7/{D7F7635D-5211-F2DD-685A-29FF28A4501D}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1122989481",
+      "Name": "Play_VOC_Playerhit_Woman_Plus",
+      "ObjectPath": "\\Events\\Default Work Unit\\VOICES\\Play_VOC_Playerhit_Woman_Plus",
+      "GUID": "{65507F87-B9A3-450D-8E07-E2861A0234BF}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.35492063",
+      "DurationMax": "1.2493877",
+      "MediaRefs": [
+       {
+        "Id": "204955313"
+       },
+       {
+        "Id": "310801162"
+       },
+       {
+        "Id": "330167672"
+       },
+       {
+        "Id": "477940503"
+       },
+       {
+        "Id": "547285015"
+       },
+       {
+        "Id": "628901412"
+       },
+       {
+        "Id": "688455824"
+       },
+       {
+        "Id": "751787101"
+       },
+       {
+        "Id": "839000551"
+       },
+       {
+        "Id": "983052996"
+       },
+       {
+        "Id": "1043824417"
+       },
+       {
+        "Id": "1057530434"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "3190188375",
+      "Name": "Volume_Voices",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_Voices",
+      "GUID": "{A30D2C1D-8F38-44BA-AD63-DA7281186AF3}"
+     },
+     {
+      "Id": "3747206233",
+      "Name": "Volume_Main",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_Main",
+      "GUID": "{C6FA2EAF-61ED-4606-84B1-A474FF19B59B}"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{C4124D48-3722-0157-1956-BC385C613FB5}"
+ }
+}

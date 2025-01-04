@@ -1,0 +1,7 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3852913709	Play_AMB_Arena_Crowd_Loop			\Default Work Unit\AMB\Play_AMB_Arena_Crowd_Loop	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	2486614534	Volume_Ambiant			\Default Work Unit\Volume_Ambiant	
+	3747206233	Volume_Main			\Default Work Unit\Volume_Main	
+

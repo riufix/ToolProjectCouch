@@ -1,0 +1,74 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1652826792",
+    "Type": "Event",
+    "GUID": "{87223A71-F95E-4982-8C7E-53618E772D5B}",
+    "Language": "SFX",
+    "Hash": "{C20D9D4B-6804-48D5-1BA4-169C5FA8DFD1}",
+    "ObjectPath": "Play_VOC_RoundStart_Plus",
+    "ShortName": "Play_VOC_RoundStart_Plus",
+    "Path": "Event/Play_VOC_RoundStart_Plus.bnk",
+    "Media": [
+     {
+      "Id": "682794295",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "VOICES\\VOC_RoundStart_02.wav",
+      "Path": "Media/682794295.wem",
+      "CachePath": "3B/{3BEC0732-2675-A0A7-91E3-9EA1BE3BDEA1}.wem"
+     },
+     {
+      "Id": "876103019",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "VOICES\\VOC_RoundStart_01.wav",
+      "Path": "Media/876103019.wem",
+      "CachePath": "08/{08236CCF-E932-490B-C0B0-F3F84A9288E8}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1652826792",
+      "Name": "Play_VOC_RoundStart_Plus",
+      "ObjectPath": "\\Events\\Default Work Unit\\VOICES\\Play_VOC_RoundStart_Plus",
+      "GUID": "{87223A71-F95E-4982-8C7E-53618E772D5B}",
+      "DurationType": "OneShot",
+      "DurationMin": "2.028458",
+      "DurationMax": "2.2301588",
+      "MediaRefs": [
+       {
+        "Id": "682794295"
+       },
+       {
+        "Id": "876103019"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "3190188375",
+      "Name": "Volume_Voices",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_Voices",
+      "GUID": "{A30D2C1D-8F38-44BA-AD63-DA7281186AF3}"
+     },
+     {
+      "Id": "3747206233",
+      "Name": "Volume_Main",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_Main",
+      "GUID": "{C6FA2EAF-61ED-4606-84B1-A474FF19B59B}"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{2020C5FE-3C49-83AF-6D43-FCFD129FCDE3}"
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2318832876",
+    "Type": "Event",
+    "GUID": "{53B62B5B-5EB2-4BBA-ADF3-A6EAD9863F29}",
+    "Language": "SFX",
+    "Hash": "{DB2DD827-1C96-0AE1-D8B0-DF2664BED76D}",
+    "ObjectPath": "Play_SFX_BlockDestroy_Metal_Plus",
+    "ShortName": "Play_SFX_BlockDestroy_Metal_Plus",
+    "Path": "Event/Play_SFX_BlockDestroy_Metal_Plus.bnk",
+    "Media": [
+     {
+      "Id": "335256374",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "SFX\\DESTRUCTION\\SFX_BlockDestroy_Metal_03.wav",
+      "Path": "Media/335256374.wem",
+      "CachePath": "D4/{D490BAB1-2BA6-3672-126E-F5BA4A2546AC}.wem"
+     },
+     {
+      "Id": "417566704",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "SFX\\DESTRUCTION\\SFX_BlockDestroy_Metal_04.wav",
+      "Path": "Media/417566704.wem",
+      "CachePath": "D5/{D5455A80-7378-DB31-C2D3-4CABA6F6EEE7}.wem"
+     },
+     {
+      "Id": "1011307483",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "SFX\\DESTRUCTION\\SFX_BlockDestroy_Metal_02.wav",
+      "Path": "Media/1011307483.wem",
+      "CachePath": "76/{76D68E2C-A805-1D83-74AF-BF8DA888F662}.wem"
+     },
+     {
+      "Id": "1040033854",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "SFX\\DESTRUCTION\\SFX_BlockDestroy_Metal_01.wav",
+      "Path": "Media/1040033854.wem",
+      "CachePath": "6E/{6E9E1FB5-2CA0-6E86-9477-20F655BD9140}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2318832876",
+      "Name": "Play_SFX_BlockDestroy_Metal_Plus",
+      "ObjectPath": "\\Events\\Default Work Unit\\SFX\\Destruction\\Play_SFX_BlockDestroy_Metal_Plus",
+      "GUID": "{53B62B5B-5EB2-4BBA-ADF3-A6EAD9863F29}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.26575",
+      "DurationMax": "0.332",
+      "MediaRefs": [
+       {
+        "Id": "335256374"
+       },
+       {
+        "Id": "417566704"
+       },
+       {
+        "Id": "1011307483"
+       },
+       {
+        "Id": "1040033854"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "3673881719",
+      "Name": "Volume_SFX",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_SFX",
+      "GUID": "{928E56BB-9907-4B8F-90F5-6EA9DDE99453}"
+     },
+     {
+      "Id": "3747206233",
+      "Name": "Volume_Main",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_Main",
+      "GUID": "{C6FA2EAF-61ED-4606-84B1-A474FF19B59B}"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{E4D2F0D1-8EE5-0E54-B12F-52F55961F885}"
+ }
+}

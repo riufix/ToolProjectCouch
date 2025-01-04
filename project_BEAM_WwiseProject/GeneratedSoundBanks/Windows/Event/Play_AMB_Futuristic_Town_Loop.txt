@@ -1,0 +1,7 @@
+Event	ID	Name			Wwise Object Path	Notes
+	4268838697	Play_AMB_Futuristic_Town_Loop			\Default Work Unit\AMB\Play_AMB_Futuristic_Town_Loop	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	2486614534	Volume_Ambiant			\Default Work Unit\Volume_Ambiant	
+	3747206233	Volume_Main			\Default Work Unit\Volume_Main	
+

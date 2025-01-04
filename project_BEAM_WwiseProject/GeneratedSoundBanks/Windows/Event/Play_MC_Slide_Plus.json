@@ -1,0 +1,146 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2603707971",
+    "Type": "Event",
+    "GUID": "{35FEA141-D00A-4765-A5CD-BC0E617ECD2D}",
+    "Language": "SFX",
+    "Hash": "{CD96F785-DA5D-5687-5129-169E4BA318A1}",
+    "ObjectPath": "Play_MC_Slide_Plus",
+    "ShortName": "Play_MC_Slide_Plus",
+    "Path": "Event/Play_MC_Slide_Plus.bnk",
+    "Media": [
+     {
+      "Id": "294198310",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Slide\\MC_Slide_01.wav",
+      "Path": "Media/294198310.wem",
+      "CachePath": "2A/{2A515A43-0A01-A633-90BD-02A41EFF15A3}.wem"
+     },
+     {
+      "Id": "312261188",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Slide\\MC_Slide_04.wav",
+      "Path": "Media/312261188.wem",
+      "CachePath": "2C/{2C5D742B-1419-B533-86A5-7D708B81DC51}.wem"
+     },
+     {
+      "Id": "470034084",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Slide\\MC_Slide_02.wav",
+      "Path": "Media/470034084.wem",
+      "CachePath": "52/{52D535D0-19F4-A53B-A686-06533E41584C}.wem"
+     },
+     {
+      "Id": "626665526",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Slide\\MC_Slide_07.wav",
+      "Path": "Media/626665526.wem",
+      "CachePath": "A1/{A1E7CA1D-008A-FA65-FD20-687B50700B68}.wem"
+     },
+     {
+      "Id": "688846352",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Slide\\MC_Slide_05.wav",
+      "Path": "Media/688846352.wem",
+      "CachePath": "CC/{CC300C01-34F9-779C-56F7-1FDFDD3BE304}.wem"
+     },
+     {
+      "Id": "791630797",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Slide\\MC_Slide_08.wav",
+      "Path": "Media/791630797.wem",
+      "CachePath": "72/{72885C0C-48C0-7BBB-A514-A55A6E8555C1}.wem"
+     },
+     {
+      "Id": "986568106",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Slide\\MC_Slide_03.wav",
+      "Path": "Media/986568106.wem",
+      "CachePath": "12/{122076A1-14F3-2A19-7D71-8DC0334E56CA}.wem"
+     },
+     {
+      "Id": "1069880865",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Slide\\MC_Slide_06.wav",
+      "Path": "Media/1069880865.wem",
+      "CachePath": "0C/{0CEFDFFF-D67F-69A3-92B7-B693EE78B338}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2603707971",
+      "Name": "Play_MC_Slide_Plus",
+      "ObjectPath": "\\Events\\Default Work Unit\\FOLEY\\Slide\\Play_MC_Slide_Plus",
+      "GUID": "{35FEA141-D00A-4765-A5CD-BC0E617ECD2D}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.45997918",
+      "DurationMax": "0.47777084",
+      "MediaRefs": [
+       {
+        "Id": "294198310"
+       },
+       {
+        "Id": "312261188"
+       },
+       {
+        "Id": "470034084"
+       },
+       {
+        "Id": "626665526"
+       },
+       {
+        "Id": "688846352"
+       },
+       {
+        "Id": "791630797"
+       },
+       {
+        "Id": "986568106"
+       },
+       {
+        "Id": "1069880865"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "3673881719",
+      "Name": "Volume_SFX",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_SFX",
+      "GUID": "{928E56BB-9907-4B8F-90F5-6EA9DDE99453}"
+     },
+     {
+      "Id": "3747206233",
+      "Name": "Volume_Main",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_Main",
+      "GUID": "{C6FA2EAF-61ED-4606-84B1-A474FF19B59B}"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{29F280EF-9B7C-4916-A312-F19CCE1E0CAB}"
+ }
+}

@@ -1,3 +1,10 @@
+# Rider files
+.idea/
+
+# VS Code
+.vscode/
+*.code-workspace
+
 # Visual Studio 2015 user specific files
 .vs/
 
@@ -47,7 +54,24 @@ SourceArt/**/*.tga
 
 # Binary Files
 Binaries/*
-Plugins/**/Binaries/*
+!Binaries/Win64
+Binaries/Win64/*
+!Binaries/Win64/UnrealEditor.modules
+!Binaries/Win64/UnrealEditor-EditorTools.dll
+!Binaries/Win64/UnrealEditor-project_BEAM.dll
+!Binaries/Win64/project_BEAM.target
+
+# Plugins Files
+Plugins/*/Binaries/*
+!Plugins/*/Binaries/Win64
+Plugins/*/Binaries/Win64/*
+!Plugins/*/Binaries/Win64/UnrealEditor.modules
+!Plugins/*/Binaries/Win64/UnrealEditor-LocalMultiplayer.dll
+!Plugins/*/Binaries/Win64/UnrealEditor-FCTween.dll
+
+# Wwise
+!Plugins/*/Binaries/Win64/*.dll
+!Plugins/WwiseSoundEngine/**/*.lib
 
 # Builds
 Build/*
@@ -68,7 +92,17 @@ Saved/*
 
 # Compiled source files for the engine to use
 Intermediate/*
-Plugins/**/Intermediate/*
+Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+#Rider
+.idea/
+
+Binaries/*
+!Binaries/Win64
+Binaries/Win64/*
+!Binaries/Win64/UnrealEditor.modules
+!Binaries/Win64/UnrealEditor-project_BEAM.dll
+!Binaries/Win64/project_BEAM.target

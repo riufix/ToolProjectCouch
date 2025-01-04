@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "741551731",
+    "Type": "Event",
+    "GUID": "{C5DA5604-C90C-4439-83BA-FE4A48DA72D1}",
+    "Language": "SFX",
+    "Hash": "{D3F21D28-A038-5C5A-43DE-CA60F6A675E5}",
+    "ObjectPath": "Stop_AMB_Arena_Crowd_Loop",
+    "ShortName": "Stop_AMB_Arena_Crowd_Loop",
+    "Path": "Event/Stop_AMB_Arena_Crowd_Loop.bnk",
+    "Events": [
+     {
+      "Id": "741551731",
+      "Name": "Stop_AMB_Arena_Crowd_Loop",
+      "ObjectPath": "\\Events\\Default Work Unit\\AMB\\Stop_AMB_Arena_Crowd_Loop",
+      "GUID": "{C5DA5604-C90C-4439-83BA-FE4A48DA72D1}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{48EA0160-027C-2D7D-7266-DDB49938CF28}"
+ }
+}

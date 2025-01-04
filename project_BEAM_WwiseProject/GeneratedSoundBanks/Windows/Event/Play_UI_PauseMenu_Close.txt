@@ -1,0 +1,7 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2519903191	Play_UI_PauseMenu_Close			\Default Work Unit\UI\Play_UI_PauseMenu_Close	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	3673881719	Volume_SFX			\Default Work Unit\Volume_SFX	
+	3747206233	Volume_Main			\Default Work Unit\Volume_Main	
+

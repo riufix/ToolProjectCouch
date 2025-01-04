@@ -1,0 +1,206 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2910221035",
+    "Type": "Event",
+    "GUID": "{04084978-4A4C-4206-A8A5-2F5944782D91}",
+    "Language": "SFX",
+    "Hash": "{CE189A37-8670-7B8E-0056-C1E88808B562}",
+    "ObjectPath": "Play_VOC_PlayerHit_Man_Plus",
+    "ShortName": "Play_VOC_PlayerHit_Man_Plus",
+    "Path": "Event/Play_VOC_PlayerHit_Man_Plus.bnk",
+    "Media": [
+     {
+      "Id": "82935187",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "VOICES\\VOC_Playerhit_Man_09.wav",
+      "Path": "Media/82935187.wem",
+      "CachePath": "2F/{2FF7F1B8-8E2D-F82F-0533-FF2A62FDF568}.wem"
+     },
+     {
+      "Id": "125999586",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "VOICES\\VOC_Playerhit_Man_05.wav",
+      "Path": "Media/125999586.wem",
+      "CachePath": "0A/{0A856A10-75AC-5418-2780-79332391B2F9}.wem"
+     },
+     {
+      "Id": "136437337",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "VOICES\\VOC_Playerhit_Man_04.wav",
+      "Path": "Media/136437337.wem",
+      "CachePath": "3A/{3AD67B7C-4E7C-551D-44E4-1FA925A7403E}.wem"
+     },
+     {
+      "Id": "314688976",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "VOICES\\VOC_Playerhit_Man_08.wav",
+      "Path": "Media/314688976.wem",
+      "CachePath": "F5/{F5A52F37-A6B2-6416-AE36-4EF080D6A6A2}.wem"
+     },
+     {
+      "Id": "339908141",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "VOICES\\VOC_Playerhit_Man_13.wav",
+      "Path": "Media/339908141.wem",
+      "CachePath": "27/{27930CD3-46CD-9565-73FD-93A4D60D6574}.wem"
+     },
+     {
+      "Id": "370179923",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "VOICES\\VOC_Playerhit_Man_02.wav",
+      "Path": "Media/370179923.wem",
+      "CachePath": "A9/{A955017F-86A3-F1C2-76B6-B7C24DD63832}.wem"
+     },
+     {
+      "Id": "514508923",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "VOICES\\VOC_Playerhit_Man_10.wav",
+      "Path": "Media/514508923.wem",
+      "CachePath": "42/{42C4EF35-A1BE-4168-A4AB-98E364CEB617}.wem"
+     },
+     {
+      "Id": "636418627",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "VOICES\\VOC_Playerhit_Man_12.wav",
+      "Path": "Media/636418627.wem",
+      "CachePath": "31/{3145FE56-5F61-2F17-D87C-33D9C118C38C}.wem"
+     },
+     {
+      "Id": "773002281",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "VOICES\\VOC_Playerhit_Man_11.wav",
+      "Path": "Media/773002281.wem",
+      "CachePath": "19/{194B1519-A22A-0E41-815C-D40B6356882E}.wem"
+     },
+     {
+      "Id": "817962074",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "VOICES\\VOC_Playerhit_Man_01.wav",
+      "Path": "Media/817962074.wem",
+      "CachePath": "7F/{7F5C0DEE-2544-D66A-7612-76DCD2FE2782}.wem"
+     },
+     {
+      "Id": "864910996",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "VOICES\\VOC_Playerhit_Man_07.wav",
+      "Path": "Media/864910996.wem",
+      "CachePath": "96/{9615288B-4D5F-1F55-AF3B-5EE0CA42BB4F}.wem"
+     },
+     {
+      "Id": "868692591",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "VOICES\\VOC_Playerhit_Man_03.wav",
+      "Path": "Media/868692591.wem",
+      "CachePath": "D6/{D6E3900C-6B39-181E-D424-C1A78ED2730A}.wem"
+     },
+     {
+      "Id": "957280594",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "VOICES\\VOC_Playerhit_Man_06.wav",
+      "Path": "Media/957280594.wem",
+      "CachePath": "3E/{3EBDBD4A-94C2-AAF1-61DD-90FE981A579A}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2910221035",
+      "Name": "Play_VOC_PlayerHit_Man_Plus",
+      "ObjectPath": "\\Events\\Default Work Unit\\VOICES\\Play_VOC_PlayerHit_Man_Plus",
+      "GUID": "{04084978-4A4C-4206-A8A5-2F5944782D91}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.4936508",
+      "DurationMax": "2.036848",
+      "MediaRefs": [
+       {
+        "Id": "82935187"
+       },
+       {
+        "Id": "125999586"
+       },
+       {
+        "Id": "136437337"
+       },
+       {
+        "Id": "314688976"
+       },
+       {
+        "Id": "339908141"
+       },
+       {
+        "Id": "370179923"
+       },
+       {
+        "Id": "514508923"
+       },
+       {
+        "Id": "636418627"
+       },
+       {
+        "Id": "773002281"
+       },
+       {
+        "Id": "817962074"
+       },
+       {
+        "Id": "864910996"
+       },
+       {
+        "Id": "868692591"
+       },
+       {
+        "Id": "957280594"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "3190188375",
+      "Name": "Volume_Voices",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_Voices",
+      "GUID": "{A30D2C1D-8F38-44BA-AD63-DA7281186AF3}"
+     },
+     {
+      "Id": "3747206233",
+      "Name": "Volume_Main",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_Main",
+      "GUID": "{C6FA2EAF-61ED-4606-84B1-A474FF19B59B}"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{F3DAC71B-DE5D-AFC1-033D-6549B952B9A2}"
+ }
+}

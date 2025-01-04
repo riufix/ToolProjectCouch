@@ -1,0 +1,533 @@
+﻿Log file open, 12/04/24 15:21:32
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=87984)
+LogWindows: Enabling Tpause support
+LogWindows: Custom abort handler registered for crash reporting.
+LogInit: Display: Running engine for game: project_BEAM
+LogCore: UnrealTraceServer: Trace store launch successful
+LogTrace: Initializing trace...
+LogCore: Display: Requested channels: 'cpu,gpu,frame,log,bookmark,screenshot,region'
+LogTrace: Finished trace initialization.
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.3-CL-29314046"
+LogCsvProfiler: Display: Metadata set : engineversion="5.3.2-29314046+++UE5+Release-5.3"
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (23H2) [10.0.22631.4541] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|13th Gen Intel(R) Core(TM) i7-13620H"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : pgoprofilingenabled="0"
+LogCsvProfiler: Display: Metadata set : ltoenabled="0"
+LogCsvProfiler: Display: Metadata set : asan="0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\project_BEAM.uproject""
+LogCsvProfiler: Display: Metadata set : loginid="8267f28c42fbc909ed2e9f92f795c039"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogStats: Stats thread started at 0.535701
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-102BBB0F462379CA3DD6F28F26D17854
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.04 seconds
+LogConfig: Display: Loading Unix ini files took 0.04 seconds
+LogConfig: Display: Loading Mac ini files took 0.04 seconds
+LogConfig: Display: Loading IOS ini files took 0.04 seconds
+LogConfig: Display: Loading TVOS ini files took 0.05 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.05 seconds
+LogAssetRegistry: Display: Asset registry cache read as 20.9 MiB from ../../../../../../Users/lanfe/Documents/UnrealyGameJame/project_BEAM/Intermediate/CachedAssetRegistry_0.bin
+LogConfig: Display: Loading Linux ini files took 0.06 seconds
+LogConfig: Display: Loading Android ini files took 0.06 seconds
+LogPluginManager: Mounting Engine plugin EnhancedInput
+LogPluginManager: Found config from plugin[EnhancedInput] Input
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin TraceUtilities
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin ACLPlugin
+LogPluginManager: Mounting Engine plugin AnimationData
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCaching
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosUserDataPT
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin Fracture
+LogPluginManager: Mounting Engine plugin Dataflow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin LocalizableMessage
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin StructUtils
+LogPluginManager: Mounting Engine plugin ToolPresets
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin InterchangeTests
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin Takes
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin DumpGPUServices
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin N10XSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin RenderDocPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin BlueprintHeaderView
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin ChangelistReview
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EngineAssetDefinitions
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin UVEditor
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin MediaPlate
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManager
+LogPluginManager: Mounting Engine plugin GLTFExporter
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin AudioWidgets
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin InputDebugging
+LogPluginManager: Found config from plugin[InputDebugging] Input
+LogPluginManager: Mounting Engine plugin Metasound
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MsQuic
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin RigVM
+LogPluginManager: Mounting Engine plugin WaveTable
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin PortableObjectFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin LightMixer
+LogPluginManager: Mounting Engine plugin ObjectMixer
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Project plugin Wwise
+LogPluginManager: Mounting Project plugin WwiseSoundEngine
+LogPluginManager: Mounting Project plugin LocalMultiplayer
+LogPluginManager: Mounting Project plugin WwiseNiagara
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/TraceUtilities/Content/' mounted to '/TraceUtilities/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ACLPlugin/Content/' mounted to '/ACLPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosCaching/Content/' mounted to '/ChaosCaching/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/Dataflow/Content/' mounted to '/Dataflow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ToolPresets/Content/' mounted to '/ToolPresets/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/VirtualProduction/Takes/Content/' mounted to '/Takes/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Interchange/Runtime/Content/' mounted to '/Interchange/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/BlueprintHeaderView/Content/' mounted to '/BlueprintHeaderView/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/UVEditor/Content/' mounted to '/UVEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaPlate/Content/' mounted to '/MediaPlate/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/GLTFExporter/Content/' mounted to '/GLTFExporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioWidgets/Content/' mounted to '/AudioWidgets/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Metasound/Content/' mounted to '/Metasound/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/RigVM/Content/' mounted to '/RigVM/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/WaveTable/Content/' mounted to '/WaveTable/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/LightMixer/Content/' mounted to '/LightMixer/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/ObjectMixer/Content/' mounted to '/ObjectMixer/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../../../../Users/lanfe/Documents/UnrealyGameJame/project_BEAM/Plugins/Wwise/Content/' mounted to '/Wwise/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../../../../Users/lanfe/Documents/UnrealyGameJame/project_BEAM/Plugins/LocalMultiplayer/Content/' mounted to '/LocalMultiplayer/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../../../../Users/lanfe/Documents/UnrealyGameJame/project_BEAM/Plugins/WwiseNiagara/Content/' mounted to '/WwiseNiagara/'
+SourceControl: Revision control is disabled
+SourceControl: Revision control is disabled
+SourceControl: Revision control is disabled
+LogInit: Warning: Incompatible or missing module: EditorTools
+Running C:/Program Files/Epic Games/UE_5.3/Engine/Build/BatchFiles/Build.bat Development Win64 -Project="C:/Users/lanfe/Documents/UnrealyGameJame/project_BEAM/project_BEAM.uproject" -TargetType=Editor -Progress -NoEngineChanges -NoHotReloadFromIDE
+Using bundled DotNet SDK version: 6.0.302
+Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" Development Win64 -Project="C:/Users/lanfe/Documents/UnrealyGameJame/project_BEAM/project_BEAM.uproject" -TargetType=Editor -Progress -NoEngineChanges -NoHotReloadFromIDE
+Log file: C:\Users\lanfe\AppData\Local\UnrealBuildTool\Log.txt
+Using 'git status' to determine working set for adaptive non-unity build (C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM).
+Creating makefile for project_BEAMEditor (.uproject file is newer)
+Library 'C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\WwiseSoundEngine\Source\WwiseAuthoring\../../ThirdParty\x64_vc170\Profile\lib\AkAutobahn.lib' was not resolvable to a file when used in Module 'WwiseAuthoring', assuming it is a filename and will search library paths for it. This is slow and dependency checking will not work for it. Please update reference to be fully qualified alternatively use PublicSystemLibraryPaths if you do intended to use this slow path to suppress this warning. 
+Library 'C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\WwiseSoundEngine\Source\WwiseSoundEngine\../../ThirdParty\x64_vc170\Profile(StaticCRT)\lib\AkSoundEngine.lib' was not resolvable to a file when used in Module 'WwiseSoundEngine', assuming it is a filename and will search library paths for it. This is slow and dependency checking will not work for it. Please update reference to be fully qualified alternatively use PublicSystemLibraryPaths if you do intended to use this slow path to suppress this warning. 
+Library 'C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\WwiseSoundEngine\Source\WwiseSoundEngine\../../ThirdParty\x64_vc170\Profile(StaticCRT)\lib\AkMemoryMgr.lib' was not resolvable to a file when used in Module 'WwiseSoundEngine', assuming it is a filename and will search library paths for it. This is slow and dependency checking will not work for it. Please update reference to be fully qualified alternatively use PublicSystemLibraryPaths if you do intended to use this slow path to suppress this warning. 
+Library 'C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\WwiseSoundEngine\Source\WwiseSoundEngine\../../ThirdParty\x64_vc170\Profile(StaticCRT)\lib\AkStreamMgr.lib' was not resolvable to a file when used in Module 'WwiseSoundEngine', assuming it is a filename and will search library paths for it. This is slow and dependency checking will not work for it. Please update reference to be fully qualified alternatively use PublicSystemLibraryPaths if you do intended to use this slow path to suppress this warning. 
+Library 'C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\WwiseSoundEngine\Source\WwiseSoundEngine\../../ThirdParty\x64_vc170\Profile(StaticCRT)\lib\AkMusicEngine.lib' was not resolvable to a file when used in Module 'WwiseSoundEngine', assuming it is a filename and will search library paths for it. This is slow and dependency checking will not work for it. Please update reference to be fully qualified alternatively use PublicSystemLibraryPaths if you do intended to use this slow path to suppress this warning. 
+Library 'C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\WwiseSoundEngine\Source\WwiseSoundEngine\../../ThirdParty\x64_vc170\Profile(StaticCRT)\lib\AkSpatialAudio.lib' was not resolvable to a file when used in Module 'WwiseSoundEngine', assuming it is a filename and will search library paths for it. This is slow and dependency checking will not work for it. Please update reference to be fully qualified alternatively use PublicSystemLibraryPaths if you do intended to use this slow path to suppress this warning. 
+Library 'C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\WwiseSoundEngine\Source\WwiseSoundEngine\../../ThirdParty\x64_vc170\Profile(StaticCRT)\lib\AkAudioInputSource.lib' was not resolvable to a file when used in Module 'WwiseSoundEngine', assuming it is a filename and will search library paths for it. This is slow and dependency checking will not work for it. Please update reference to be fully qualified alternatively use PublicSystemLibraryPaths if you do intended to use this slow path to suppress this warning. 
+Library 'C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\WwiseSoundEngine\Source\WwiseSoundEngine\../../ThirdParty\x64_vc170\Profile(StaticCRT)\lib\AkVorbisDecoder.lib' was not resolvable to a file when used in Module 'WwiseSoundEngine', assuming it is a filename and will search library paths for it. This is slow and dependency checking will not work for it. Please update reference to be fully qualified alternatively use PublicSystemLibraryPaths if you do intended to use this slow path to suppress this warning. 
+Library 'C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\WwiseSoundEngine\Source\WwiseSoundEngine\../../ThirdParty\x64_vc170\Profile(StaticCRT)\lib\AkMeterFX.lib' was not resolvable to a file when used in Module 'WwiseSoundEngine', assuming it is a filename and will search library paths for it. This is slow and dependency checking will not work for it. Please update reference to be fully qualified alternatively use PublicSystemLibraryPaths if you do intended to use this slow path to suppress this warning. 
+Library 'C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\WwiseSoundEngine\Source\WwiseSoundEngine\../../ThirdParty\x64_vc170\Profile(StaticCRT)\lib\CommunicationCentral.lib' was not resolvable to a file when used in Module 'WwiseSoundEngine', assuming it is a filename and will search library paths for it. This is slow and dependency checking will not work for it. Please update reference to be fully qualified alternatively use PublicSystemLibraryPaths if you do intended to use this slow path to suppress this warning. 
+Library 'C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\WwiseSoundEngine\Source\WwiseSoundEngine\../../ThirdParty\x64_vc170\Profile(StaticCRT)\lib\AkOpusDecoder.lib' was not resolvable to a file when used in Module 'WwiseSoundEngine', assuming it is a filename and will search library paths for it. This is slow and dependency checking will not work for it. Please update reference to be fully qualified alternatively use PublicSystemLibraryPaths if you do intended to use this slow path to suppress this warning. 
+Warning: Plugin 'LocalMultiplayer' does not list plugin 'EnhancedInput' as a dependency, but module 'LocalMultiplayer' depends on 'EnhancedInput'.
+@progress push 5%
+Parsing headers for project_BEAMEditor
+  Running Internal UnrealHeaderTool C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\project_BEAM.uproject C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Intermediate\Build\Win64\project_BEAMEditor\Development\project_BEAMEditor.uhtmanifest -WarningsAsErrors -installed
+Total of 308 written
+Reflection code generated for project_BEAMEditor in 11.0614261 seconds
+@progress pop
+Building project_BEAMEditor...
+Using Visual Studio 2022 14.41.34123 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120) and Windows 10.0.26100.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+Determining max actions to execute in parallel (10 physical cores, 16 logical cores)
+  Executing up to 10 processes, one per physical core
+  Requested 1.5 GB memory per action, 482.64 MB available: limiting max parallel actions to 1
+------ Building 122 action(s) started ------
+[1/122] Compile [x64] SharedPCH.UnrealEd.Cpp20.cpp
+Detected compiler newer than Visual Studio 2022, please update min version checking in WindowsPlatformCompilerSetup.h
+[2/122] Compile [x64] SharedPCH.Core.Cpp20.cpp
+Detected compiler newer than Visual Studio 2022, please update min version checking in WindowsPlatformCompilerSetup.h
+[3/122] Compile [x64] SharedPCH.CoreUObject.Cpp20.cpp
+Detected compiler newer than Visual Studio 2022, please update min version checking in WindowsPlatformCompilerSetup.h
+[4/122] Compile [x64] Module.WwiseSoundEngine.cpp
+[5/122] Compile [x64] Module.WwiseLowLevelUtils.cpp
+[6/122] Resource Default.rc2
+[7/122] Link [x64] UnrealEditor-WwiseSoundEngine.lib
+   Cr?ation de la biblioth?que C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\WwiseSoundEngine\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseSoundEngine\UnrealEditor-WwiseSoundEngine.lib et de l'objet C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\WwiseSoundEngine\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseSoundEngine\UnrealEditor-WwiseSoundEngine.exp
+[8/122] Resource Default.rc2
+[9/122] Link [x64] UnrealEditor-WwiseLowLevelUtils.lib
+   Cr?ation de la biblioth?que C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\WwiseSoundEngine\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseLowLevelUtils\UnrealEditor-WwiseLowLevelUtils.lib et de l'objet C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\WwiseSoundEngine\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseLowLevelUtils\UnrealEditor-WwiseLowLevelUtils.exp
+[10/122] Link [x64] UnrealEditor-WwiseSoundEngine.dll
+LINK : fatal error LNK1181: impossible d'ouvrir le fichier en entr?e 'C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\WwiseSoundEngine\Source\WwiseSoundEngine\..\..\ThirdParty\x64_vc170\Profile(StaticCRT)\lib\AkSoundEngine.lib'
+[11/122] Link [x64] UnrealEditor-WwiseLowLevelUtils.dll
+   Cr?ation de la biblioth?que C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\WwiseSoundEngine\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseLowLevelUtils\UnrealEditor-WwiseLowLevelUtils.sup.lib et de l'objet C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\WwiseSoundEngine\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseLowLevelUtils\UnrealEditor-WwiseLowLevelUtils.sup.exp
+[12/122] Compile [x64] Module.WwiseUtils.cpp
+[13/122] Compile [x64] Module.WwiseResourceLoader.2.cpp
+[14/122] Compile [x64] Module.WwiseResourceLoader.1.cpp
+[15/122] Resource Default.rc2
+[16/122] Link [x64] UnrealEditor-WwiseUtils.lib
+   Cr?ation de la biblioth?que C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseUtils\UnrealEditor-WwiseUtils.lib et de l'objet C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseUtils\UnrealEditor-WwiseUtils.exp
+[17/122] Link [x64] UnrealEditor-WwiseUtils.dll
+   Cr?ation de la biblioth?que C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseUtils\UnrealEditor-WwiseUtils.sup.lib et de l'objet C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseUtils\UnrealEditor-WwiseUtils.sup.exp
+[18/122] Resource Default.rc2
+[19/122] Link [x64] UnrealEditor-WwiseResourceLoader.lib
+   Cr?ation de la biblioth?que C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseResourceLoader\UnrealEditor-WwiseResourceLoader.lib et de l'objet C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseResourceLoader\UnrealEditor-WwiseResourceLoader.exp
+[20/122] Compile [x64] Module.WwiseFileHandler.cpp
+[21/122] Resource Default.rc2
+[22/122] Link [x64] UnrealEditor-WwiseFileHandler.lib
+   Cr?ation de la biblioth?que C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseFileHandler\UnrealEditor-WwiseFileHandler.lib et de l'objet C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseFileHandler\UnrealEditor-WwiseFileHandler.exp
+[23/122] Compile [x64] Module.WwiseConcurrency.cpp
+[24/122] Compile [x64] Module.AkAudio.1.cpp
+[25/122] Compile [x64] Module.AkAudio.2.cpp
+[26/122] Compile [x64] Module.WwiseProjectDatabase.cpp
+[27/122] Compile [x64] Module.AkAudio.5.cpp
+[28/122] Compile [x64] Module.AkAudio.8.cpp
+[29/122] Compile [x64] Module.AkAudio.4.cpp
+[30/122] Compile [x64] Module.AkAudio.7.cpp
+[31/122] Compile [x64] Module.AkAudio.3.cpp
+[32/122] Compile [x64] Module.AkAudio.6.cpp
+[33/122] Resource Default.rc2
+[34/122] Link [x64] UnrealEditor-WwiseConcurrency.lib
+   Cr?ation de la biblioth?que C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseConcurrency\UnrealEditor-WwiseConcurrency.lib et de l'objet C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseConcurrency\UnrealEditor-WwiseConcurrency.exp
+[35/122] Link [x64] UnrealEditor-WwiseConcurrency.dll
+   Cr?ation de la biblioth?que C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseConcurrency\UnrealEditor-WwiseConcurrency.sup.lib et de l'objet C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseConcurrency\UnrealEditor-WwiseConcurrency.sup.exp
+[36/122] Resource Default.rc2
+[37/122] Link [x64] UnrealEditor-AkAudio.lib
+   Cr?ation de la biblioth?que C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\AkAudio\UnrealEditor-AkAudio.lib et de l'objet C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\AkAudio\UnrealEditor-AkAudio.exp
+[38/122] Resource Default.rc2
+[39/122] Link [x64] UnrealEditor-WwiseProjectDatabase.lib
+   Cr?ation de la biblioth?que C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseProjectDatabase\UnrealEditor-WwiseProjectDatabase.lib et de l'objet C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseProjectDatabase\UnrealEditor-WwiseProjectDatabase.exp
+[40/122] Link [x64] UnrealEditor-WwiseProjectDatabase.dll
+LINK : fatal error LNK1181: impossible d'ouvrir le fichier en entr?e 'C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\WwiseSoundEngine\Source\WwiseSoundEngine\..\..\ThirdParty\x64_vc170\Profile(StaticCRT)\lib\AkSoundEngine.lib'
+[41/122] Compile [x64] Module.WwisePackagingRuntime.cpp
+[42/122] Compile [x64] Module.WwiseEditorUtils.cpp
+[43/122] Compile [x64] Module.WwiseProcessing.cpp
+[44/122] Resource Default.rc2
+[45/122] Link [x64] UnrealEditor-WwisePackagingRuntime.lib
+   Cr?ation de la biblioth?que C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwisePackagingRuntime\UnrealEditor-WwisePackagingRuntime.lib et de l'objet C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwisePackagingRuntime\UnrealEditor-WwisePackagingRuntime.exp
+[46/122] Link [x64] UnrealEditor-WwisePackagingRuntime.dll
+   Cr?ation de la biblioth?que C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwisePackagingRuntime\UnrealEditor-WwisePackagingRuntime.sup.lib et de l'objet C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwisePackagingRuntime\UnrealEditor-WwisePackagingRuntime.sup.exp
+[47/122] Resource Default.rc2
+[48/122] Link [x64] UnrealEditor-WwiseProcessing.lib
+   Cr?ation de la biblioth?que C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseProcessing\UnrealEditor-WwiseProcessing.lib et de l'objet C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseProcessing\UnrealEditor-WwiseProcessing.exp
+[49/122] Link [x64] UnrealEditor-WwiseResourceLoader.dll
+LINK : fatal error LNK1181: impossible d'ouvrir le fichier en entr?e 'C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\WwiseSoundEngine\Source\WwiseSoundEngine\..\..\ThirdParty\x64_vc170\Profile(StaticCRT)\lib\AkSoundEngine.lib'
+[50/122] Link [x64] UnrealEditor-WwiseProcessing.dll
+LINK : fatal error LNK1181: impossible d'ouvrir le fichier en entr?e 'C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\WwiseSoundEngine\Source\WwiseSoundEngine\..\..\ThirdParty\x64_vc170\Profile(StaticCRT)\lib\AkSoundEngine.lib'
+[51/122] Resource Default.rc2
+[52/122] Link [x64] UnrealEditor-WwiseEditorUtils.lib
+   Cr?ation de la biblioth?que C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseEditorUtils\UnrealEditor-WwiseEditorUtils.lib et de l'objet C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseEditorUtils\UnrealEditor-WwiseEditorUtils.exp
+[53/122] Link [x64] UnrealEditor-WwiseEditorUtils.dll
+   Cr?ation de la biblioth?que C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseEditorUtils\UnrealEditor-WwiseEditorUtils.sup.lib et de l'objet C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseEditorUtils\UnrealEditor-WwiseEditorUtils.sup.exp
+[54/122] Compile [x64] Module.WwiseObjectUtils.cpp
+[55/122] Compile [x64] Module.WwiseResourceCooker.cpp
+[56/122] Compile [x64] Module.WwisePackaging.cpp
+[57/122] Resource Default.rc2
+[58/122] Link [x64] UnrealEditor-WwiseResourceCooker.lib
+   Cr?ation de la biblioth?que C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseResourceCooker\UnrealEditor-WwiseResourceCooker.lib et de l'objet C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseResourceCooker\UnrealEditor-WwiseResourceCooker.exp
+[59/122] Link [x64] UnrealEditor-WwiseResourceCooker.dll
+LINK : fatal error LNK1181: impossible d'ouvrir le fichier en entr?e 'C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\WwiseSoundEngine\Source\WwiseSoundEngine\..\..\ThirdParty\x64_vc170\Profile(StaticCRT)\lib\AkSoundEngine.lib'
+[60/122] Resource Default.rc2
+[61/122] Link [x64] UnrealEditor-WwiseObjectUtils.lib
+   Cr?ation de la biblioth?que C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseObjectUtils\UnrealEditor-WwiseObjectUtils.lib et de l'objet C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseObjectUtils\UnrealEditor-WwiseObjectUtils.exp
+[62/122] Link [x64] UnrealEditor-WwiseFileHandler.dll
+LINK : fatal error LNK1181: impossible d'ouvrir le fichier en entr?e 'C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\WwiseSoundEngine\Source\WwiseSoundEngine\..\..\ThirdParty\x64_vc170\Profile(StaticCRT)\lib\AkSoundEngine.lib'
+[63/122] Link [x64] UnrealEditor-WwiseObjectUtils.dll
+LINK : fatal error LNK1181: impossible d'ouvrir le fichier en entr?e 'C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\WwiseSoundEngine\Source\WwiseSoundEngine\..\..\ThirdParty\x64_vc170\Profile(StaticCRT)\lib\AkSoundEngine.lib'
+[64/122] Resource Default.rc2
+[65/122] Link [x64] UnrealEditor-WwisePackaging.lib
+   Cr?ation de la biblioth?que C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwisePackaging\UnrealEditor-WwisePackaging.lib et de l'objet C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwisePackaging\UnrealEditor-WwisePackaging.exp
+[66/122] Link [x64] UnrealEditor-WwisePackaging.dll
+   Cr?ation de la biblioth?que C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwisePackaging\UnrealEditor-WwisePackaging.sup.lib et de l'objet C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwisePackaging\UnrealEditor-WwisePackaging.sup.exp
+[67/122] Compile [x64] Module.WwisePackagingEditor.cpp
+[68/122] Compile [x64] Module.WwiseEngineUtils.cpp
+[69/122] Compile [x64] Module.WwiseAuthoring.cpp
+[70/122] Resource Default.rc2
+[71/122] Link [x64] UnrealEditor-WwiseAuthoring.lib
+   Cr?ation de la biblioth?que C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\WwiseSoundEngine\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseAuthoring\UnrealEditor-WwiseAuthoring.lib et de l'objet C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\WwiseSoundEngine\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseAuthoring\UnrealEditor-WwiseAuthoring.exp
+[72/122] Link [x64] UnrealEditor-WwiseAuthoring.dll
+LINK : fatal error LNK1181: impossible d'ouvrir le fichier en entr?e 'C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\WwiseSoundEngine\Source\WwiseAuthoring\..\..\ThirdParty\x64_vc170\Profile\lib\AkAutobahn.lib'
+[73/122] Resource Default.rc2
+[74/122] Link [x64] UnrealEditor-WwiseEngineUtils.lib
+   Cr?ation de la biblioth?que C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseEngineUtils\UnrealEditor-WwiseEngineUtils.lib et de l'objet C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseEngineUtils\UnrealEditor-WwiseEngineUtils.exp
+[75/122] Link [x64] UnrealEditor-WwiseEngineUtils.dll
+LINK : fatal error LNK1181: impossible d'ouvrir le fichier en entr?e 'C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\WwiseSoundEngine\Source\WwiseSoundEngine\..\..\ThirdParty\x64_vc170\Profile(StaticCRT)\lib\AkSoundEngine.lib'
+[76/122] Resource Default.rc2
+[77/122] Link [x64] UnrealEditor-WwisePackagingEditor.lib
+   Cr?ation de la biblioth?que C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwisePackagingEditor\UnrealEditor-WwisePackagingEditor.lib et de l'objet C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwisePackagingEditor\UnrealEditor-WwisePackagingEditor.exp
+[78/122] Link [x64] UnrealEditor-WwisePackagingEditor.dll
+   Cr?ation de la biblioth?que C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwisePackagingEditor\UnrealEditor-WwisePackagingEditor.sup.lib et de l'objet C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwisePackagingEditor\UnrealEditor-WwisePackagingEditor.sup.exp
+[79/122] Compile [x64] Module.WwiseSimpleExternalSource.cpp
+[80/122] Compile [x64] Module.WwiseReconcile.cpp
+[81/122] Compile [x64] Module.project_BEAM.3.cpp
+[82/122] Compile [x64] Module.WwiseObstructionOcclusion.cpp
+[83/122] Compile [x64] Module.project_BEAM.2.cpp
+[84/122] Compile [x64] Module.AkAudioMixer.cpp
+[85/122] Compile [x64] Module.AudiokineticTools.cpp
+[86/122] Compile [x64] Module.project_BEAM.1.cpp
+[87/122] Compile [x64] Module.LocalMultiplayer.cpp
+C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\LocalMultiplayer\Source\LocalMultiplayer\Private\LocalMultiplayerGameViewportClient.cpp(51): warning C4996: 'APlayerController::InputAxis': InputAxis has been deprecated, please use InputKey instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[88/122] Resource Default.rc2
+[89/122] Link [x64] UnrealEditor-AudiokineticTools.lib
+   Cr?ation de la biblioth?que C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\AudiokineticTools\UnrealEditor-AudiokineticTools.lib et de l'objet C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\AudiokineticTools\UnrealEditor-AudiokineticTools.exp
+[90/122] Resource Default.rc2
+[91/122] Link [x64] UnrealEditor-WwiseReconcile.lib
+   Cr?ation de la biblioth?que C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseReconcile\UnrealEditor-WwiseReconcile.lib et de l'objet C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseReconcile\UnrealEditor-WwiseReconcile.exp
+[92/122] Link [x64] UnrealEditor-AudiokineticTools.dll
+LINK : fatal error LNK1181: impossible d'ouvrir le fichier en entr?e 'C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\WwiseSoundEngine\Source\WwiseAuthoring\..\..\ThirdParty\x64_vc170\Profile\lib\AkAutobahn.lib'
+[93/122] Link [x64] UnrealEditor-WwiseReconcile.dll
+LINK : fatal error LNK1181: impossible d'ouvrir le fichier en entr?e 'C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\WwiseSoundEngine\Source\WwiseSoundEngine\..\..\ThirdParty\x64_vc170\Profile(StaticCRT)\lib\AkSoundEngine.lib'
+[94/122] Resource Default.rc2
+[95/122] Link [x64] UnrealEditor-AkAudioMixer.lib
+   Cr?ation de la biblioth?que C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\AkAudioMixer\UnrealEditor-AkAudioMixer.lib et de l'objet C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\AkAudioMixer\UnrealEditor-AkAudioMixer.exp
+[96/122] Link [x64] UnrealEditor-AkAudioMixer.dll
+LINK : fatal error LNK1181: impossible d'ouvrir le fichier en entr?e 'C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\WwiseSoundEngine\Source\WwiseSoundEngine\..\..\ThirdParty\x64_vc170\Profile(StaticCRT)\lib\AkSoundEngine.lib'
+[97/122] Resource Default.rc2
+[98/122] Link [x64] UnrealEditor-project_BEAM.lib
+   Cr?ation de la biblioth?que C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Intermediate\Build\Win64\x64\UnrealEditor\Development\project_BEAM\UnrealEditor-project_BEAM.lib et de l'objet C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Intermediate\Build\Win64\x64\UnrealEditor\Development\project_BEAM\UnrealEditor-project_BEAM.exp
+[99/122] Resource Default.rc2
+[100/122] Link [x64] UnrealEditor-WwiseObstructionOcclusion.lib
+   Cr?ation de la biblioth?que C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseObstructionOcclusion\UnrealEditor-WwiseObstructionOcclusion.lib et de l'objet C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseObstructionOcclusion\UnrealEditor-WwiseObstructionOcclusion.exp
+[101/122] Link [x64] UnrealEditor-AkAudio.dll
+LINK : fatal error LNK1181: impossible d'ouvrir le fichier en entr?e 'C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\WwiseSoundEngine\Source\WwiseSoundEngine\..\..\ThirdParty\x64_vc170\Profile(StaticCRT)\lib\AkSoundEngine.lib'
+[102/122] Link [x64] UnrealEditor-WwiseObstructionOcclusion.dll
+LINK : fatal error LNK1181: impossible d'ouvrir le fichier en entr?e 'C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\WwiseSoundEngine\Source\WwiseSoundEngine\..\..\ThirdParty\x64_vc170\Profile(StaticCRT)\lib\AkSoundEngine.lib'
+[103/122] Resource Default.rc2
+[104/122] Link [x64] UnrealEditor-LocalMultiplayer.lib
+   Cr?ation de la biblioth?que C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\LocalMultiplayer\Intermediate\Build\Win64\x64\UnrealEditor\Development\LocalMultiplayer\UnrealEditor-LocalMultiplayer.lib et de l'objet C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\LocalMultiplayer\Intermediate\Build\Win64\x64\UnrealEditor\Development\LocalMultiplayer\UnrealEditor-LocalMultiplayer.exp
+[105/122] Link [x64] UnrealEditor-project_BEAM.dll
+   Cr?ation de la biblioth?que C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Intermediate\Build\Win64\x64\UnrealEditor\Development\project_BEAM\UnrealEditor-project_BEAM.sup.lib et de l'objet C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Intermediate\Build\Win64\x64\UnrealEditor\Development\project_BEAM\UnrealEditor-project_BEAM.sup.exp
+[106/122] Link [x64] UnrealEditor-LocalMultiplayer.dll
+   Cr?ation de la biblioth?que C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\LocalMultiplayer\Intermediate\Build\Win64\x64\UnrealEditor\Development\LocalMultiplayer\UnrealEditor-LocalMultiplayer.sup.lib et de l'objet C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\LocalMultiplayer\Intermediate\Build\Win64\x64\UnrealEditor\Development\LocalMultiplayer\UnrealEditor-LocalMultiplayer.sup.exp
+[107/122] Resource Default.rc2
+[108/122] Link [x64] UnrealEditor-WwiseSimpleExternalSource.lib
+   Cr?ation de la biblioth?que C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseSimpleExternalSource\UnrealEditor-WwiseSimpleExternalSource.lib et de l'objet C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseSimpleExternalSource\UnrealEditor-WwiseSimpleExternalSource.exp
+[109/122] Link [x64] UnrealEditor-WwiseSimpleExternalSource.dll
+LINK : fatal error LNK1181: impossible d'ouvrir le fichier en entr?e 'C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\WwiseSoundEngine\Source\WwiseSoundEngine\..\..\ThirdParty\x64_vc170\Profile(StaticCRT)\lib\AkSoundEngine.lib'
+[110/122] Compile [x64] Module.WwiseNiagara.cpp
+[111/122] Compile [x64] EditorTools.cpp
+[112/122] Compile [x64] Module.Wwise.cpp
+[113/122] Resource Default.rc2
+[114/122] Link [x64] UnrealEditor-Wwise.dll
+LINK : fatal error LNK1181: impossible d'ouvrir le fichier en entr?e 'C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\WwiseSoundEngine\Source\WwiseSoundEngine\..\..\ThirdParty\x64_vc170\Profile(StaticCRT)\lib\AkSoundEngine.lib'
+[115/122] Link [x64] UnrealEditor-Wwise.lib
+   Cr?ation de la biblioth?que C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\Wwise\UnrealEditor-Wwise.lib et de l'objet C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\Wwise\UnrealEditor-Wwise.exp
+[116/122] Resource Default.rc2
+[117/122] Link [x64] UnrealEditor-EditorTools.dll
+   Cr?ation de la biblioth?que C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Intermediate\Build\Win64\x64\UnrealEditor\Development\EditorTools\UnrealEditor-EditorTools.sup.lib et de l'objet C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Intermediate\Build\Win64\x64\UnrealEditor\Development\EditorTools\UnrealEditor-EditorTools.sup.exp
+[118/122] Link [x64] UnrealEditor-EditorTools.lib
+   Cr?ation de la biblioth?que C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Intermediate\Build\Win64\x64\UnrealEditor\Development\EditorTools\UnrealEditor-EditorTools.lib et de l'objet C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Intermediate\Build\Win64\x64\UnrealEditor\Development\EditorTools\UnrealEditor-EditorTools.exp
+[119/122] Resource Default.rc2
+[120/122] Link [x64] UnrealEditor-WwiseNiagara.dll
+LINK : fatal error LNK1181: impossible d'ouvrir le fichier en entr?e 'C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\WwiseSoundEngine\Source\WwiseSoundEngine\..\..\ThirdParty\x64_vc170\Profile(StaticCRT)\lib\AkSoundEngine.lib'
+[121/122] Link [x64] UnrealEditor-WwiseNiagara.lib
+   Cr?ation de la biblioth?que C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\WwiseNiagara\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseNiagara\UnrealEditor-WwiseNiagara.lib et de l'objet C:\Users\lanfe\Documents\UnrealyGameJame\project_BEAM\Plugins\WwiseNiagara\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseNiagara\UnrealEditor-WwiseNiagara.exp
+Total time in Parallel executor: 1133.11 seconds
+Total execution time: 1163.82 seconds
+LogInit: Warning: Still incompatible or missing module: Wwise
+LogInit: Warning: Still incompatible or missing module: AkAudio
+LogInit: Warning: Still incompatible or missing module: AkAudioMixer
+LogInit: Warning: Still incompatible or missing module: AudiokineticTools
+LogInit: Warning: Still incompatible or missing module: WwiseEngineUtils
+LogInit: Warning: Still incompatible or missing module: WwiseFileHandler
+LogInit: Warning: Still incompatible or missing module: WwiseObjectUtils
+LogInit: Warning: Still incompatible or missing module: WwiseObstructionOcclusion
+LogInit: Warning: Still incompatible or missing module: WwiseProcessing
+LogInit: Warning: Still incompatible or missing module: WwiseProjectDatabase
+LogInit: Warning: Still incompatible or missing module: WwiseReconcile
+LogInit: Warning: Still incompatible or missing module: WwiseResourceCooker
+LogInit: Warning: Still incompatible or missing module: WwiseResourceLoader
+LogInit: Warning: Still incompatible or missing module: WwiseSimpleExternalSource
+LogInit: Warning: Still incompatible or missing module: WwiseAuthoring
+LogInit: Warning: Still incompatible or missing module: WwiseNiagara
+LogCore: Engine exit requested (reason: EngineExit() was called)
+LogExit: Preparing to exit.
+LogVirtualization: UE::Virtualization was shutdown
+LogModuleManager: Shutting down and abandoning module DesktopPlatform (64)
+LogModuleManager: Shutting down and abandoning module PlasticSourceControl (62)
+LogModuleManager: Shutting down and abandoning module PerforceSourceControl (60)
+LogModuleManager: Shutting down and abandoning module SourceControl (59)
+LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (56)
+LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (54)
+LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (52)
+LogModuleManager: Shutting down and abandoning module PlatformCrypto (50)
+LogModuleManager: Shutting down and abandoning module XGEController (48)
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogXGEController: Cleaning working directory: C:/Users/lanfe/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogModuleManager: Shutting down and abandoning module FastBuildController (46)
+LogModuleManager: Shutting down and abandoning module IoStoreOnDemand (44)
+LogModuleManager: Shutting down and abandoning module AnimationModifiers (42)
+LogModuleManager: Shutting down and abandoning module AudioEditor (40)
+LogModuleManager: Shutting down and abandoning module PropertyEditor (39)
+LogModuleManager: Shutting down and abandoning module Virtualization (36)
+LogModuleManager: Shutting down and abandoning module MessageLog (35)
+LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+LogModuleManager: Shutting down and abandoning module OpenColorIOWrapper (31)
+LogModuleManager: Shutting down and abandoning module RenderCore (28)
+LogModuleManager: Shutting down and abandoning module Landscape (26)
+LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+LogModuleManager: Shutting down and abandoning module Renderer (20)
+LogModuleManager: Shutting down and abandoning module Engine (18)
+LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+LogModuleManager: Shutting down and abandoning module PakFile (12)
+LogPakFile: Destroying PakPlatformFile
+LogModuleManager: Shutting down and abandoning module RSA (11)
+LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+LogExit: Exiting.
+Log file closed, 12/04/24 15:41:14

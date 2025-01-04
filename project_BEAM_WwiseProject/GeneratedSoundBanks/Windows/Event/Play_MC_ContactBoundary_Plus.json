@@ -1,0 +1,98 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2502082832",
+    "Type": "Event",
+    "GUID": "{378CDF8C-7387-402D-AF93-E5A44819EF30}",
+    "Language": "SFX",
+    "Hash": "{45685746-D581-09DE-20F0-6D42A1574005}",
+    "ObjectPath": "Play_MC_ContactBoundary_Plus",
+    "ShortName": "Play_MC_ContactBoundary_Plus",
+    "Path": "Event/Play_MC_ContactBoundary_Plus.bnk",
+    "Media": [
+     {
+      "Id": "59023103",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Contact Bondaries\\MC_ContactBoudary_02.wav",
+      "Path": "Media/59023103.wem",
+      "CachePath": "55/{55715819-B179-2FD9-129C-2F27A0AA8E4B}.wem"
+     },
+     {
+      "Id": "525572598",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Contact Bondaries\\MC_ContactBoudary_03.wav",
+      "Path": "Media/525572598.wem",
+      "CachePath": "48/{485F50B8-7583-D7E4-F79A-05D9CD918744}.wem"
+     },
+     {
+      "Id": "837890240",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Contact Bondaries\\MC_ContactBoudary.wav",
+      "Path": "Media/837890240.wem",
+      "CachePath": "C0/{C006F956-832A-C0E7-C939-5F425D5CFBBD}.wem"
+     },
+     {
+      "Id": "922853779",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOLEY\\Contact Bondaries\\MC_ContactBoudary_04.wav",
+      "Path": "Media/922853779.wem",
+      "CachePath": "1D/{1DF1089E-70EA-2C03-5C7A-71438FEB501D}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2502082832",
+      "Name": "Play_MC_ContactBoundary_Plus",
+      "ObjectPath": "\\Events\\Default Work Unit\\FOLEY\\Contact Boundaries\\Play_MC_ContactBoundary_Plus",
+      "GUID": "{378CDF8C-7387-402D-AF93-E5A44819EF30}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.93333334",
+      "DurationMax": "1.2",
+      "MediaRefs": [
+       {
+        "Id": "59023103"
+       },
+       {
+        "Id": "525572598"
+       },
+       {
+        "Id": "837890240"
+       },
+       {
+        "Id": "922853779"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "3673881719",
+      "Name": "Volume_SFX",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_SFX",
+      "GUID": "{928E56BB-9907-4B8F-90F5-6EA9DDE99453}"
+     },
+     {
+      "Id": "3747206233",
+      "Name": "Volume_Main",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume_Main",
+      "GUID": "{C6FA2EAF-61ED-4606-84B1-A474FF19B59B}"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{6DB3DC6C-A263-0960-D6F0-D82E154F3921}"
+ }
+}
